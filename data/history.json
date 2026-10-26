@@ -1,0 +1,2663 @@
+[
+  {
+    "id": "europe-2-1793024862000-tb02",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "HUGEL",
+    "title": "Movin' To The Sun",
+    "playedAt": "2026-10-26T14:27:42.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_80407035.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=HUGEL%20Movin'%20To%20The%20Sun",
+      "spotify": "https://open.spotify.com/search/HUGEL%20Movin'%20To%20The%20Sun",
+      "appleMusic": "https://music.apple.com/search?term=HUGEL%20Movin'%20To%20The%20Sun"
+    }
+  },
+  {
+    "id": "europe-2-1793024707000-rzkb",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "MANON LISA",
+    "title": "Jeune Demoiselle",
+    "playedAt": "2026-10-26T14:25:07.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_85699105.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MANON%20LISA%20Jeune%20Demoiselle",
+      "spotify": "https://open.spotify.com/search/MANON%20LISA%20Jeune%20Demoiselle",
+      "appleMusic": "https://music.apple.com/search?term=MANON%20LISA%20Jeune%20Demoiselle"
+    }
+  },
+  {
+    "id": "europe-2-1793024515000-qqmt",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TEDDY SWIMS",
+    "title": "Mr Know It All",
+    "playedAt": "2026-10-26T14:21:55.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_70677066.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TEDDY%20SWIMS%20Mr%20Know%20It%20All",
+      "spotify": "https://open.spotify.com/search/TEDDY%20SWIMS%20Mr%20Know%20It%20All",
+      "appleMusic": "https://music.apple.com/search?term=TEDDY%20SWIMS%20Mr%20Know%20It%20All"
+    }
+  },
+  {
+    "id": "europe-2-1793024327000-19xc",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ANOTR feat. 54 ULTRA",
+    "title": "Talk To You",
+    "playedAt": "2026-10-26T14:18:47.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_71092165.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ANOTR%20feat.%2054%20ULTRA%20Talk%20To%20You",
+      "spotify": "https://open.spotify.com/search/ANOTR%20feat.%2054%20ULTRA%20Talk%20To%20You",
+      "appleMusic": "https://music.apple.com/search?term=ANOTR%20feat.%2054%20ULTRA%20Talk%20To%20You"
+    }
+  },
+  {
+    "id": "nrj-1793024016619",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JOSEPH KAMEL",
+    "title": "Jamais (ft Vitaa)",
+    "playedAt": "2026-10-26T14:13:36.619Z",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/b3/da/e1b3da58-4a64-ce4e-d4d8-e8fb21115339/196874644669.jpg/600x600bb.jpg",
+    "album": "Jamais - Single",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JOSEPH%20KAMEL%20Jamais%20(ft%20Vitaa)",
+      "spotify": "https://open.spotify.com/search/JOSEPH%20KAMEL%20Jamais%20(ft%20Vitaa)",
+      "appleMusic": "https://music.apple.com/search?term=JOSEPH%20KAMEL%20Jamais%20(ft%20Vitaa)"
+    }
+  },
+  {
+    "id": "nrj-1793024016380-kmww",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "METRO BOOMIN",
+    "title": "Creepin",
+    "playedAt": "2026-10-26T14:13:36.380Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=METRO%20BOOMIN%20Creepin",
+      "spotify": "https://open.spotify.com/search/METRO%20BOOMIN%20Creepin",
+      "appleMusic": "https://music.apple.com/search?term=METRO%20BOOMIN%20Creepin"
+    }
+  },
+  {
+    "id": "nrj-1793024016380-c3g4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NELLY FURTADO FEAT. TIMBALAND",
+    "title": "Promiscuous girl",
+    "playedAt": "2026-10-26T14:13:36.380Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=NELLY%20FURTADO%20FEAT.%20TIMBALAND%20Promiscuous%20girl",
+      "spotify": "https://open.spotify.com/search/NELLY%20FURTADO%20FEAT.%20TIMBALAND%20Promiscuous%20girl",
+      "appleMusic": "https://music.apple.com/search?term=NELLY%20FURTADO%20FEAT.%20TIMBALAND%20Promiscuous%20girl"
+    }
+  },
+  {
+    "id": "nrj-1793024016380-8ohv",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ORIA",
+    "title": "Bella Vita",
+    "playedAt": "2026-10-26T14:13:36.380Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ORIA%20Bella%20Vita",
+      "spotify": "https://open.spotify.com/search/ORIA%20Bella%20Vita",
+      "appleMusic": "https://music.apple.com/search?term=ORIA%20Bella%20Vita"
+    }
+  },
+  {
+    "id": "nrj-1793024016380-dgfl",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SEAN KINGSTON",
+    "title": "Beautiful Girls",
+    "playedAt": "2026-10-26T14:13:36.380Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SEAN%20KINGSTON%20Beautiful%20Girls",
+      "spotify": "https://open.spotify.com/search/SEAN%20KINGSTON%20Beautiful%20Girls",
+      "appleMusic": "https://music.apple.com/search?term=SEAN%20KINGSTON%20Beautiful%20Girls"
+    }
+  },
+  {
+    "id": "nrj-1793024016380-842u",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MARK AMBOR",
+    "title": "Belong Together",
+    "playedAt": "2026-10-26T14:13:36.380Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MARK%20AMBOR%20Belong%20Together",
+      "spotify": "https://open.spotify.com/search/MARK%20AMBOR%20Belong%20Together",
+      "appleMusic": "https://music.apple.com/search?term=MARK%20AMBOR%20Belong%20Together"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-2tru",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DAVID GUETTA",
+    "title": "SAM MARTIN - Dangerous",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DAVID%20GUETTA%20SAM%20MARTIN%20-%20Dangerous",
+      "spotify": "https://open.spotify.com/search/DAVID%20GUETTA%20SAM%20MARTIN%20-%20Dangerous",
+      "appleMusic": "https://music.apple.com/search?term=DAVID%20GUETTA%20SAM%20MARTIN%20-%20Dangerous"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-w1fz",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "LEONY",
+    "title": "I Can Feel",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LEONY%20I%20Can%20Feel",
+      "spotify": "https://open.spotify.com/search/LEONY%20I%20Can%20Feel",
+      "appleMusic": "https://music.apple.com/search?term=LEONY%20I%20Can%20Feel"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-7tdm",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "G-EAZY",
+    "title": "Me Myself and I",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=G-EAZY%20Me%20Myself%20and%20I",
+      "spotify": "https://open.spotify.com/search/G-EAZY%20Me%20Myself%20and%20I",
+      "appleMusic": "https://music.apple.com/search?term=G-EAZY%20Me%20Myself%20and%20I"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-xib1",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "CHAPPELL ROAN",
+    "title": "Good Luck, Babe",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=CHAPPELL%20ROAN%20Good%20Luck%2C%20Babe",
+      "spotify": "https://open.spotify.com/search/CHAPPELL%20ROAN%20Good%20Luck%2C%20Babe",
+      "appleMusic": "https://music.apple.com/search?term=CHAPPELL%20ROAN%20Good%20Luck%2C%20Babe"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-8pqs",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "GIMS",
+    "title": "Ninao",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=GIMS%20Ninao",
+      "spotify": "https://open.spotify.com/search/GIMS%20Ninao",
+      "appleMusic": "https://music.apple.com/search?term=GIMS%20Ninao"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-y70u",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KANYE WEST",
+    "title": "Stronger",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KANYE%20WEST%20Stronger",
+      "spotify": "https://open.spotify.com/search/KANYE%20WEST%20Stronger",
+      "appleMusic": "https://music.apple.com/search?term=KANYE%20WEST%20Stronger"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-xfeq",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "THE CALLING",
+    "title": "Wherever You Will Go",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=THE%20CALLING%20Wherever%20You%20Will%20Go",
+      "spotify": "https://open.spotify.com/search/THE%20CALLING%20Wherever%20You%20Will%20Go",
+      "appleMusic": "https://music.apple.com/search?term=THE%20CALLING%20Wherever%20You%20Will%20Go"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-boyl",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ELLA LANGLEY",
+    "title": "Choosin' Texas",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ELLA%20LANGLEY%20Choosin'%20Texas",
+      "spotify": "https://open.spotify.com/search/ELLA%20LANGLEY%20Choosin'%20Texas",
+      "appleMusic": "https://music.apple.com/search?term=ELLA%20LANGLEY%20Choosin'%20Texas"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-hl9h",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "EVA",
+    "title": "Sur la piste",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=EVA%20Sur%20la%20piste",
+      "spotify": "https://open.spotify.com/search/EVA%20Sur%20la%20piste",
+      "appleMusic": "https://music.apple.com/search?term=EVA%20Sur%20la%20piste"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-yxxp",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ASHE",
+    "title": "Stop the wedding",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ASHE%20Stop%20the%20wedding",
+      "spotify": "https://open.spotify.com/search/ASHE%20Stop%20the%20wedding",
+      "appleMusic": "https://music.apple.com/search?term=ASHE%20Stop%20the%20wedding"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-nfdx",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAYLOR SWIFT",
+    "title": "Patient Zero",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYLOR%20SWIFT%20Patient%20Zero",
+      "spotify": "https://open.spotify.com/search/TAYLOR%20SWIFT%20Patient%20Zero",
+      "appleMusic": "https://music.apple.com/search?term=TAYLOR%20SWIFT%20Patient%20Zero"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-iehd",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ENRIQUE IGLESIAS, PITBULL",
+    "title": "Tamo Bien",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ENRIQUE%20IGLESIAS%2C%20PITBULL%20Tamo%20Bien",
+      "spotify": "https://open.spotify.com/search/ENRIQUE%20IGLESIAS%2C%20PITBULL%20Tamo%20Bien",
+      "appleMusic": "https://music.apple.com/search?term=ENRIQUE%20IGLESIAS%2C%20PITBULL%20Tamo%20Bien"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-r3xm",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "CENTRAL CEE",
+    "title": "Let Go",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=CENTRAL%20CEE%20Let%20Go",
+      "spotify": "https://open.spotify.com/search/CENTRAL%20CEE%20Let%20Go",
+      "appleMusic": "https://music.apple.com/search?term=CENTRAL%20CEE%20Let%20Go"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-cslz",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BLACK EYED PEAS",
+    "title": "Let's Get It Started",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BLACK%20EYED%20PEAS%20Let's%20Get%20It%20Started",
+      "spotify": "https://open.spotify.com/search/BLACK%20EYED%20PEAS%20Let's%20Get%20It%20Started",
+      "appleMusic": "https://music.apple.com/search?term=BLACK%20EYED%20PEAS%20Let's%20Get%20It%20Started"
+    }
+  },
+  {
+    "id": "nrj-1793024016379-jgro",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "RAYE",
+    "title": "WHERE IS MY HUSBAND!",
+    "playedAt": "2026-10-26T14:13:36.379Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=RAYE%20WHERE%20IS%20MY%20HUSBAND!",
+      "spotify": "https://open.spotify.com/search/RAYE%20WHERE%20IS%20MY%20HUSBAND!",
+      "appleMusic": "https://music.apple.com/search?term=RAYE%20WHERE%20IS%20MY%20HUSBAND!"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-9613",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "USHER FEAT PITBULL",
+    "title": "DJ Got Us Fallin' In Love",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=USHER%20FEAT%20PITBULL%20DJ%20Got%20Us%20Fallin'%20In%20Love",
+      "spotify": "https://open.spotify.com/search/USHER%20FEAT%20PITBULL%20DJ%20Got%20Us%20Fallin'%20In%20Love",
+      "appleMusic": "https://music.apple.com/search?term=USHER%20FEAT%20PITBULL%20DJ%20Got%20Us%20Fallin'%20In%20Love"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-4py0",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DUA LIPA",
+    "title": "Dance the night",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DUA%20LIPA%20Dance%20the%20night",
+      "spotify": "https://open.spotify.com/search/DUA%20LIPA%20Dance%20the%20night",
+      "appleMusic": "https://music.apple.com/search?term=DUA%20LIPA%20Dance%20the%20night"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-0vnv",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAYLOR SWIFT",
+    "title": "Elizabeth Taylor",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYLOR%20SWIFT%20Elizabeth%20Taylor",
+      "spotify": "https://open.spotify.com/search/TAYLOR%20SWIFT%20Elizabeth%20Taylor",
+      "appleMusic": "https://music.apple.com/search?term=TAYLOR%20SWIFT%20Elizabeth%20Taylor"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-16aq",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "LOREEN",
+    "title": "Is It Love",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LOREEN%20Is%20It%20Love",
+      "spotify": "https://open.spotify.com/search/LOREEN%20Is%20It%20Love",
+      "appleMusic": "https://music.apple.com/search?term=LOREEN%20Is%20It%20Love"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-0ou7",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DJ SNAKE",
+    "title": "JUSTIN BIEBER - Let Me Love You",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DJ%20SNAKE%20JUSTIN%20BIEBER%20-%20Let%20Me%20Love%20You",
+      "spotify": "https://open.spotify.com/search/DJ%20SNAKE%20JUSTIN%20BIEBER%20-%20Let%20Me%20Love%20You",
+      "appleMusic": "https://music.apple.com/search?term=DJ%20SNAKE%20JUSTIN%20BIEBER%20-%20Let%20Me%20Love%20You"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-6yzg",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TOVE LO & STROMAE",
+    "title": "Des fleurs",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TOVE%20LO%20%26%20STROMAE%20Des%20fleurs",
+      "spotify": "https://open.spotify.com/search/TOVE%20LO%20%26%20STROMAE%20Des%20fleurs",
+      "appleMusic": "https://music.apple.com/search?term=TOVE%20LO%20%26%20STROMAE%20Des%20fleurs"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-crwj",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SHAKIRA",
+    "title": "Dai Dai (ft Burna Boy)",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SHAKIRA%20Dai%20Dai%20(ft%20Burna%20Boy)",
+      "spotify": "https://open.spotify.com/search/SHAKIRA%20Dai%20Dai%20(ft%20Burna%20Boy)",
+      "appleMusic": "https://music.apple.com/search?term=SHAKIRA%20Dai%20Dai%20(ft%20Burna%20Boy)"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-yrnw",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "LOUANE",
+    "title": "Mode avion",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LOUANE%20Mode%20avion",
+      "spotify": "https://open.spotify.com/search/LOUANE%20Mode%20avion",
+      "appleMusic": "https://music.apple.com/search?term=LOUANE%20Mode%20avion"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-0ltk",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SKYLAR GREY",
+    "title": "Coming Home",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SKYLAR%20GREY%20Coming%20Home",
+      "spotify": "https://open.spotify.com/search/SKYLAR%20GREY%20Coming%20Home",
+      "appleMusic": "https://music.apple.com/search?term=SKYLAR%20GREY%20Coming%20Home"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-ggzi",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KRIS KROSS AMSTERDAM",
+    "title": "My oh my",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KRIS%20KROSS%20AMSTERDAM%20My%20oh%20my",
+      "spotify": "https://open.spotify.com/search/KRIS%20KROSS%20AMSTERDAM%20My%20oh%20my",
+      "appleMusic": "https://music.apple.com/search?term=KRIS%20KROSS%20AMSTERDAM%20My%20oh%20my"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-t7sc",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "VIANNEY",
+    "title": "D'or et d'etain",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=VIANNEY%20D'or%20et%20d'etain",
+      "spotify": "https://open.spotify.com/search/VIANNEY%20D'or%20et%20d'etain",
+      "appleMusic": "https://music.apple.com/search?term=VIANNEY%20D'or%20et%20d'etain"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-jfu4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "INIGO QUINTERO",
+    "title": "Si no estas",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=INIGO%20QUINTERO%20Si%20no%20estas",
+      "spotify": "https://open.spotify.com/search/INIGO%20QUINTERO%20Si%20no%20estas",
+      "appleMusic": "https://music.apple.com/search?term=INIGO%20QUINTERO%20Si%20no%20estas"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-oldm",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KATSEYE",
+    "title": "Animal",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KATSEYE%20Animal",
+      "spotify": "https://open.spotify.com/search/KATSEYE%20Animal",
+      "appleMusic": "https://music.apple.com/search?term=KATSEYE%20Animal"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-b297",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KATY PERRY",
+    "title": "E.T.",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KATY%20PERRY%20E.T.",
+      "spotify": "https://open.spotify.com/search/KATY%20PERRY%20E.T.",
+      "appleMusic": "https://music.apple.com/search?term=KATY%20PERRY%20E.T."
+    }
+  },
+  {
+    "id": "nrj-1793024016378-7r0q",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KAROL G",
+    "title": "Si Antes Te Hubiera Conocido",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido",
+      "spotify": "https://open.spotify.com/search/KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido",
+      "appleMusic": "https://music.apple.com/search?term=KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-mkis",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JENN AYACHE",
+    "title": "About us (toi & moi)",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JENN%20AYACHE%20About%20us%20(toi%20%26%20moi)",
+      "spotify": "https://open.spotify.com/search/JENN%20AYACHE%20About%20us%20(toi%20%26%20moi)",
+      "appleMusic": "https://music.apple.com/search?term=JENN%20AYACHE%20About%20us%20(toi%20%26%20moi)"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-bvlt",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BEN PLG & MATHILDE",
+    "title": "Histoire sans fin",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BEN%20PLG%20%26%20MATHILDE%20Histoire%20sans%20fin",
+      "spotify": "https://open.spotify.com/search/BEN%20PLG%20%26%20MATHILDE%20Histoire%20sans%20fin",
+      "appleMusic": "https://music.apple.com/search?term=BEN%20PLG%20%26%20MATHILDE%20Histoire%20sans%20fin"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-dyuv",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JOSEPH KAMEL",
+    "title": "Jamais (ft Vitaa)",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JOSEPH%20KAMEL%20Jamais%20(ft%20Vitaa)",
+      "spotify": "https://open.spotify.com/search/JOSEPH%20KAMEL%20Jamais%20(ft%20Vitaa)",
+      "appleMusic": "https://music.apple.com/search?term=JOSEPH%20KAMEL%20Jamais%20(ft%20Vitaa)"
+    }
+  },
+  {
+    "id": "nrj-1793024016378-1xek",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAME IMPALA",
+    "title": "Loser",
+    "playedAt": "2026-10-26T14:13:36.378Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAME%20IMPALA%20Loser",
+      "spotify": "https://open.spotify.com/search/TAME%20IMPALA%20Loser",
+      "appleMusic": "https://music.apple.com/search?term=TAME%20IMPALA%20Loser"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-tqnw",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DIAM'S",
+    "title": "Jeune Demoiselle",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DIAM'S%20Jeune%20Demoiselle",
+      "spotify": "https://open.spotify.com/search/DIAM'S%20Jeune%20Demoiselle",
+      "appleMusic": "https://music.apple.com/search?term=DIAM'S%20Jeune%20Demoiselle"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-jbf8",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SIENNA SPIRO",
+    "title": "Great Expectation",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SIENNA%20SPIRO%20Great%20Expectation",
+      "spotify": "https://open.spotify.com/search/SIENNA%20SPIRO%20Great%20Expectation",
+      "appleMusic": "https://music.apple.com/search?term=SIENNA%20SPIRO%20Great%20Expectation"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-j2d8",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "OFENBACH",
+    "title": "Four To The Floor",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=OFENBACH%20Four%20To%20The%20Floor",
+      "spotify": "https://open.spotify.com/search/OFENBACH%20Four%20To%20The%20Floor",
+      "appleMusic": "https://music.apple.com/search?term=OFENBACH%20Four%20To%20The%20Floor"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-ekwr",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SEAN PAUL",
+    "title": "Temperature",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SEAN%20PAUL%20Temperature",
+      "spotify": "https://open.spotify.com/search/SEAN%20PAUL%20Temperature",
+      "appleMusic": "https://music.apple.com/search?term=SEAN%20PAUL%20Temperature"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-rcow",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ESTL",
+    "title": "Te rencontrer encore",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ESTL%20Te%20rencontrer%20encore",
+      "spotify": "https://open.spotify.com/search/ESTL%20Te%20rencontrer%20encore",
+      "appleMusic": "https://music.apple.com/search?term=ESTL%20Te%20rencontrer%20encore"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-b9jf",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JAMES BLUNT",
+    "title": "Tastes like summer",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JAMES%20BLUNT%20Tastes%20like%20summer",
+      "spotify": "https://open.spotify.com/search/JAMES%20BLUNT%20Tastes%20like%20summer",
+      "appleMusic": "https://music.apple.com/search?term=JAMES%20BLUNT%20Tastes%20like%20summer"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-0lfi",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "R3HAB & INNA & SASH",
+    "title": "Rock My Body",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=R3HAB%20%26%20INNA%20%26%20SASH%20Rock%20My%20Body",
+      "spotify": "https://open.spotify.com/search/R3HAB%20%26%20INNA%20%26%20SASH%20Rock%20My%20Body",
+      "appleMusic": "https://music.apple.com/search?term=R3HAB%20%26%20INNA%20%26%20SASH%20Rock%20My%20Body"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-wq2g",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ADELE CASTILLON",
+    "title": "Ete avec toi",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ADELE%20CASTILLON%20Ete%20avec%20toi",
+      "spotify": "https://open.spotify.com/search/ADELE%20CASTILLON%20Ete%20avec%20toi",
+      "appleMusic": "https://music.apple.com/search?term=ADELE%20CASTILLON%20Ete%20avec%20toi"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-9u81",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ROCCO HUNT",
+    "title": "ANA MENA - A Un Paso De La Luna",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ROCCO%20HUNT%20ANA%20MENA%20-%20A%20Un%20Paso%20De%20La%20Luna",
+      "spotify": "https://open.spotify.com/search/ROCCO%20HUNT%20ANA%20MENA%20-%20A%20Un%20Paso%20De%20La%20Luna",
+      "appleMusic": "https://music.apple.com/search?term=ROCCO%20HUNT%20ANA%20MENA%20-%20A%20Un%20Paso%20De%20La%20Luna"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-qhpq",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "PITBULL",
+    "title": "I Know You Want Me (Calle Ocho)",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=PITBULL%20I%20Know%20You%20Want%20Me%20(Calle%20Ocho)",
+      "spotify": "https://open.spotify.com/search/PITBULL%20I%20Know%20You%20Want%20Me%20(Calle%20Ocho)",
+      "appleMusic": "https://music.apple.com/search?term=PITBULL%20I%20Know%20You%20Want%20Me%20(Calle%20Ocho)"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-o4ui",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MANON LISA",
+    "title": "Le Petit Pecheur",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MANON%20LISA%20Le%20Petit%20Pecheur",
+      "spotify": "https://open.spotify.com/search/MANON%20LISA%20Le%20Petit%20Pecheur",
+      "appleMusic": "https://music.apple.com/search?term=MANON%20LISA%20Le%20Petit%20Pecheur"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-4mtx",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DAVID GUETTA",
+    "title": "You And I, Me And You",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DAVID%20GUETTA%20You%20And%20I%2C%20Me%20And%20You",
+      "spotify": "https://open.spotify.com/search/DAVID%20GUETTA%20You%20And%20I%2C%20Me%20And%20You",
+      "appleMusic": "https://music.apple.com/search?term=DAVID%20GUETTA%20You%20And%20I%2C%20Me%20And%20You"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-p4l9",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KAROL G",
+    "title": "bbY WOW",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KAROL%20G%20bbY%20WOW",
+      "spotify": "https://open.spotify.com/search/KAROL%20G%20bbY%20WOW",
+      "appleMusic": "https://music.apple.com/search?term=KAROL%20G%20bbY%20WOW"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-1ra6",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MARINE",
+    "title": "Tricheur",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MARINE%20Tricheur",
+      "spotify": "https://open.spotify.com/search/MARINE%20Tricheur",
+      "appleMusic": "https://music.apple.com/search?term=MARINE%20Tricheur"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-8x2h",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MOSIMANN",
+    "title": "Soon (ft Gaetan Roussel)",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MOSIMANN%20Soon%20(ft%20Gaetan%20Roussel)",
+      "spotify": "https://open.spotify.com/search/MOSIMANN%20Soon%20(ft%20Gaetan%20Roussel)",
+      "appleMusic": "https://music.apple.com/search?term=MOSIMANN%20Soon%20(ft%20Gaetan%20Roussel)"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-ltub",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "FAOUZIA",
+    "title": "JOHN LEGEND - Minefields",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=FAOUZIA%20JOHN%20LEGEND%20-%20Minefields",
+      "spotify": "https://open.spotify.com/search/FAOUZIA%20JOHN%20LEGEND%20-%20Minefields",
+      "appleMusic": "https://music.apple.com/search?term=FAOUZIA%20JOHN%20LEGEND%20-%20Minefields"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-xjqo",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BORMIN",
+    "title": "Pumped Up Kicks",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BORMIN%20Pumped%20Up%20Kicks",
+      "spotify": "https://open.spotify.com/search/BORMIN%20Pumped%20Up%20Kicks",
+      "appleMusic": "https://music.apple.com/search?term=BORMIN%20Pumped%20Up%20Kicks"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-0wt2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "INDOCHINE",
+    "title": "Victoria",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=INDOCHINE%20Victoria",
+      "spotify": "https://open.spotify.com/search/INDOCHINE%20Victoria",
+      "appleMusic": "https://music.apple.com/search?term=INDOCHINE%20Victoria"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-lutb",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Nostalgie",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Nostalgie",
+      "spotify": "https://open.spotify.com/search/%20Nostalgie",
+      "appleMusic": "https://music.apple.com/search?term=%20Nostalgie"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-9ejj",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Cherie FM",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Cherie%20FM",
+      "spotify": "https://open.spotify.com/search/%20Cherie%20FM",
+      "appleMusic": "https://music.apple.com/search?term=%20Cherie%20FM"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-tsrj",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Allzic Radio Nationale 7",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Allzic%20Radio%20Nationale%207",
+      "spotify": "https://open.spotify.com/search/%20Allzic%20Radio%20Nationale%207",
+      "appleMusic": "https://music.apple.com/search?term=%20Allzic%20Radio%20Nationale%207"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-tirf",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Eurodance 90",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Eurodance%2090",
+      "spotify": "https://open.spotify.com/search/%20Eurodance%2090",
+      "appleMusic": "https://music.apple.com/search?term=%20Eurodance%2090"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-e29p",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "RFI Monde",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20RFI%20Monde",
+      "spotify": "https://open.spotify.com/search/%20RFI%20Monde",
+      "appleMusic": "https://music.apple.com/search?term=%20RFI%20Monde"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-h10e",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Atlantica Radio",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Atlantica%20Radio",
+      "spotify": "https://open.spotify.com/search/%20Atlantica%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20Atlantica%20Radio"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-9blj",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Crooner Radio",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Crooner%20Radio",
+      "spotify": "https://open.spotify.com/search/%20Crooner%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20Crooner%20Radio"
+    }
+  },
+  {
+    "id": "nrj-1793024016377-9u1w",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "PulsRadio 90",
+    "playedAt": "2026-10-26T14:13:36.377Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20PulsRadio%2090",
+      "spotify": "https://open.spotify.com/search/%20PulsRadio%2090",
+      "appleMusic": "https://music.apple.com/search?term=%20PulsRadio%2090"
+    }
+  },
+  {
+    "id": "nrj-1793024016376-08o0",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Radio Sem Fronteiras",
+    "playedAt": "2026-10-26T14:13:36.376Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Radio%20Sem%20Fronteiras",
+      "spotify": "https://open.spotify.com/search/%20Radio%20Sem%20Fronteiras",
+      "appleMusic": "https://music.apple.com/search?term=%20Radio%20Sem%20Fronteiras"
+    }
+  },
+  {
+    "id": "nrj-1793024016376-bt40",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "M Radio",
+    "playedAt": "2026-10-26T14:13:36.376Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20M%20Radio",
+      "spotify": "https://open.spotify.com/search/%20M%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20M%20Radio"
+    }
+  },
+  {
+    "id": "nrj-1793024016376-vmks",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Hits 1",
+    "playedAt": "2026-10-26T14:13:36.376Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Hits%201",
+      "spotify": "https://open.spotify.com/search/%20Hits%201",
+      "appleMusic": "https://music.apple.com/search?term=%20Hits%201"
+    }
+  },
+  {
+    "id": "nrj-1793024016376-zbh3",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Teenage Kicks Radio",
+    "playedAt": "2026-10-26T14:13:36.376Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Teenage%20Kicks%20Radio",
+      "spotify": "https://open.spotify.com/search/%20Teenage%20Kicks%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20Teenage%20Kicks%20Radio"
+    }
+  },
+  {
+    "id": "europe-2-1793023752000-8laj",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "JUSTICE",
+    "title": "Flower In A Hurricane",
+    "playedAt": "2026-10-26T14:09:12.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_85080227.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JUSTICE%20Flower%20In%20A%20Hurricane",
+      "spotify": "https://open.spotify.com/search/JUSTICE%20Flower%20In%20A%20Hurricane",
+      "appleMusic": "https://music.apple.com/search?term=JUSTICE%20Flower%20In%20A%20Hurricane"
+    }
+  },
+  {
+    "id": "europe-2-1793023553000-hmgt",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "JASON MRAZ",
+    "title": "I'm Yours",
+    "playedAt": "2026-10-26T14:05:53.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10100950.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JASON%20MRAZ%20I'm%20Yours",
+      "spotify": "https://open.spotify.com/search/JASON%20MRAZ%20I'm%20Yours",
+      "appleMusic": "https://music.apple.com/search?term=JASON%20MRAZ%20I'm%20Yours"
+    }
+  },
+  {
+    "id": "europe-2-1793023365000-gn95",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ADELE CASTILLON",
+    "title": "Ete Avec Toi",
+    "playedAt": "2026-10-26T14:02:45.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_74026755.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ADELE%20CASTILLON%20Ete%20Avec%20Toi",
+      "spotify": "https://open.spotify.com/search/ADELE%20CASTILLON%20Ete%20Avec%20Toi",
+      "appleMusic": "https://music.apple.com/search?term=ADELE%20CASTILLON%20Ete%20Avec%20Toi"
+    }
+  },
+  {
+    "id": "europe-2-1793023162000-2wp5",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "LIL NAS X",
+    "title": "Star Walkin'",
+    "playedAt": "2026-10-26T13:59:22.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_18693943.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LIL%20NAS%20X%20Star%20Walkin'",
+      "spotify": "https://open.spotify.com/search/LIL%20NAS%20X%20Star%20Walkin'",
+      "appleMusic": "https://music.apple.com/search?term=LIL%20NAS%20X%20Star%20Walkin'"
+    }
+  },
+  {
+    "id": "europe-2-1793022793000-pjyi",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "SOPHIE ELLIS BEXTOR",
+    "title": "Murder On The Dancefloor",
+    "playedAt": "2026-10-26T13:53:13.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10097707.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SOPHIE%20ELLIS%20BEXTOR%20Murder%20On%20The%20Dancefloor",
+      "spotify": "https://open.spotify.com/search/SOPHIE%20ELLIS%20BEXTOR%20Murder%20On%20The%20Dancefloor",
+      "appleMusic": "https://music.apple.com/search?term=SOPHIE%20ELLIS%20BEXTOR%20Murder%20On%20The%20Dancefloor"
+    }
+  },
+  {
+    "id": "europe-2-1793022587000-70a1",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "COLDPLAY",
+    "title": "We Pray",
+    "playedAt": "2026-10-26T13:49:47.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_38975383.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=COLDPLAY%20We%20Pray",
+      "spotify": "https://open.spotify.com/search/COLDPLAY%20We%20Pray",
+      "appleMusic": "https://music.apple.com/search?term=COLDPLAY%20We%20Pray"
+    }
+  },
+  {
+    "id": "europe-2-1793022370000-wbcn",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TEDDYBEAR",
+    "title": "Chaussures Roses",
+    "playedAt": "2026-10-26T13:46:10.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_84251382.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TEDDYBEAR%20Chaussures%20Roses",
+      "spotify": "https://open.spotify.com/search/TEDDYBEAR%20Chaussures%20Roses",
+      "appleMusic": "https://music.apple.com/search?term=TEDDYBEAR%20Chaussures%20Roses"
+    }
+  },
+  {
+    "id": "europe-2-1793022183000-hi0f",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "LILLY WOOD & THE PRICK",
+    "title": "Prayer In C",
+    "playedAt": "2026-10-26T13:43:03.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_44101.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LILLY%20WOOD%20%26%20THE%20PRICK%20Prayer%20In%20C",
+      "spotify": "https://open.spotify.com/search/LILLY%20WOOD%20%26%20THE%20PRICK%20Prayer%20In%20C",
+      "appleMusic": "https://music.apple.com/search?term=LILLY%20WOOD%20%26%20THE%20PRICK%20Prayer%20In%20C"
+    }
+  },
+  {
+    "id": "europe-2-1793021989000-jrfg",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ARIANA GRANDE",
+    "title": "Hate That I Made You Love Me",
+    "playedAt": "2026-10-26T13:39:49.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_81524934.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ARIANA%20GRANDE%20Hate%20That%20I%20Made%20You%20Love%20Me",
+      "spotify": "https://open.spotify.com/search/ARIANA%20GRANDE%20Hate%20That%20I%20Made%20You%20Love%20Me",
+      "appleMusic": "https://music.apple.com/search?term=ARIANA%20GRANDE%20Hate%20That%20I%20Made%20You%20Love%20Me"
+    }
+  },
+  {
+    "id": "europe-2-1793021440000-griy",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "KATY PERRY",
+    "title": "Hot N Cold",
+    "playedAt": "2026-10-26T13:30:40.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10101007.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KATY%20PERRY%20Hot%20N%20Cold",
+      "spotify": "https://open.spotify.com/search/KATY%20PERRY%20Hot%20N%20Cold",
+      "appleMusic": "https://music.apple.com/search?term=KATY%20PERRY%20Hot%20N%20Cold"
+    }
+  },
+  {
+    "id": "europe-2-1793021264000-uchm",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "KAROL G",
+    "title": "Si Antes Te Hubiera Conocido",
+    "playedAt": "2026-10-26T13:27:44.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_59395889.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido",
+      "spotify": "https://open.spotify.com/search/KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido",
+      "appleMusic": "https://music.apple.com/search?term=KAROL%20G%20Si%20Antes%20Te%20Hubiera%20Conocido"
+    }
+  },
+  {
+    "id": "europe-2-1793021050000-w0wy",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "SOMBR",
+    "title": "My Body Isn't Ready",
+    "playedAt": "2026-10-26T13:24:10.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_82667597.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SOMBR%20My%20Body%20Isn't%20Ready",
+      "spotify": "https://open.spotify.com/search/SOMBR%20My%20Body%20Isn't%20Ready",
+      "appleMusic": "https://music.apple.com/search?term=SOMBR%20My%20Body%20Isn't%20Ready"
+    }
+  },
+  {
+    "id": "europe-2-1793020885000-bx91",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "MANON LISA",
+    "title": "Le Petit Pêcheur",
+    "playedAt": "2026-10-26T13:21:25.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_71916623.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MANON%20LISA%20Le%20Petit%20P%C3%AAcheur",
+      "spotify": "https://open.spotify.com/search/MANON%20LISA%20Le%20Petit%20P%C3%AAcheur",
+      "appleMusic": "https://music.apple.com/search?term=MANON%20LISA%20Le%20Petit%20P%C3%AAcheur"
+    }
+  },
+  {
+    "id": "europe-2-1793020707000-3jva",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "THE FAIM",
+    "title": "Summer Is A Curse",
+    "playedAt": "2026-10-26T13:18:27.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10820256.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=THE%20FAIM%20Summer%20Is%20A%20Curse",
+      "spotify": "https://open.spotify.com/search/THE%20FAIM%20Summer%20Is%20A%20Curse",
+      "appleMusic": "https://music.apple.com/search?term=THE%20FAIM%20Summer%20Is%20A%20Curse"
+    }
+  },
+  {
+    "id": "europe-2-1793020570000-9aru",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "BORMIN'",
+    "title": "Pumped Up Kicks",
+    "playedAt": "2026-10-26T13:16:10.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_82667862.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BORMIN'%20Pumped%20Up%20Kicks",
+      "spotify": "https://open.spotify.com/search/BORMIN'%20Pumped%20Up%20Kicks",
+      "appleMusic": "https://music.apple.com/search?term=BORMIN'%20Pumped%20Up%20Kicks"
+    }
+  },
+  {
+    "id": "europe-2-1793019911000-k44u",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TLC",
+    "title": "No Scrubs",
+    "playedAt": "2026-10-26T13:05:11.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_11494512.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TLC%20No%20Scrubs",
+      "spotify": "https://open.spotify.com/search/TLC%20No%20Scrubs",
+      "appleMusic": "https://music.apple.com/search?term=TLC%20No%20Scrubs"
+    }
+  },
+  {
+    "id": "europe-2-1793019750000-l8jg",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ED SHEERAN",
+    "title": "Azizam",
+    "playedAt": "2026-10-26T13:02:30.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_47117573.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ED%20SHEERAN%20Azizam",
+      "spotify": "https://open.spotify.com/search/ED%20SHEERAN%20Azizam",
+      "appleMusic": "https://music.apple.com/search?term=ED%20SHEERAN%20Azizam"
+    }
+  },
+  {
+    "id": "europe-2-1793019590000-e0y7",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "JENN AYACHE",
+    "title": "About Us (Toi & Moi)",
+    "playedAt": "2026-10-26T12:59:50.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_82332762.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JENN%20AYACHE%20About%20Us%20(Toi%20%26%20Moi)",
+      "spotify": "https://open.spotify.com/search/JENN%20AYACHE%20About%20Us%20(Toi%20%26%20Moi)",
+      "appleMusic": "https://music.apple.com/search?term=JENN%20AYACHE%20About%20Us%20(Toi%20%26%20Moi)"
+    }
+  },
+  {
+    "id": "europe-2-1793019377000-nar5",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "KELLY CLARKSON",
+    "title": "Because Of You",
+    "playedAt": "2026-10-26T12:56:17.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10100575.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KELLY%20CLARKSON%20Because%20Of%20You",
+      "spotify": "https://open.spotify.com/search/KELLY%20CLARKSON%20Because%20Of%20You",
+      "appleMusic": "https://music.apple.com/search?term=KELLY%20CLARKSON%20Because%20Of%20You"
+    }
+  },
+  {
+    "id": "radio-fg-1788182087977",
+    "stationId": "radio-fg",
+    "stationName": "Radio FG",
+    "artist": "COI LERAY",
+    "title": "Players (Explicit)",
+    "playedAt": "2026-08-31T13:14:47.977Z",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/d2/27/aad22799-29b9-23cc-8c03-94f60ae60158/22UM1IM37105.rgb.jpg/600x600bb.jpg",
+    "album": "Players - Single",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=COI%20LERAY%20Players%20(Explicit)",
+      "spotify": "https://open.spotify.com/search/COI%20LERAY%20Players%20(Explicit)",
+      "appleMusic": "https://music.apple.com/search?term=COI%20LERAY%20Players%20(Explicit)"
+    }
+  },
+  {
+    "id": "nrj-1788182087009",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAYC",
+    "title": "GIRLFRIEND",
+    "playedAt": "2026-08-31T13:14:47.009Z",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/15/0f/a9150f9d-3dc1-7c2e-3002-32d6b2905ea4/cover.jpg/600x600bb.jpg",
+    "album": "GIRLFRIEND - Single",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYC%20GIRLFRIEND",
+      "spotify": "https://open.spotify.com/search/TAYC%20GIRLFRIEND",
+      "appleMusic": "https://music.apple.com/search?term=TAYC%20GIRLFRIEND"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-jpt4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "AVICII & ALOE BLACC",
+    "title": "Wake Me Up !",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=AVICII%20%26%20ALOE%20BLACC%20Wake%20Me%20Up%20!",
+      "spotify": "https://open.spotify.com/search/AVICII%20%26%20ALOE%20BLACC%20Wake%20Me%20Up%20!",
+      "appleMusic": "https://music.apple.com/search?term=AVICII%20%26%20ALOE%20BLACC%20Wake%20Me%20Up%20!"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-i0nc",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAYLOR SWIFT",
+    "title": "Cruel Summer",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYLOR%20SWIFT%20Cruel%20Summer",
+      "spotify": "https://open.spotify.com/search/TAYLOR%20SWIFT%20Cruel%20Summer",
+      "appleMusic": "https://music.apple.com/search?term=TAYLOR%20SWIFT%20Cruel%20Summer"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-jdah",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DISIZ",
+    "title": "mAnIAc",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DISIZ%20mAnIAc",
+      "spotify": "https://open.spotify.com/search/DISIZ%20mAnIAc",
+      "appleMusic": "https://music.apple.com/search?term=DISIZ%20mAnIAc"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-4xp2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TATE MCRAE",
+    "title": "Greedy",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TATE%20MCRAE%20Greedy",
+      "spotify": "https://open.spotify.com/search/TATE%20MCRAE%20Greedy",
+      "appleMusic": "https://music.apple.com/search?term=TATE%20MCRAE%20Greedy"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-8ukq",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DJ GOJA ET JASON DERULO",
+    "title": "Mi Chico",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DJ%20GOJA%20ET%20JASON%20DERULO%20Mi%20Chico",
+      "spotify": "https://open.spotify.com/search/DJ%20GOJA%20ET%20JASON%20DERULO%20Mi%20Chico",
+      "appleMusic": "https://music.apple.com/search?term=DJ%20GOJA%20ET%20JASON%20DERULO%20Mi%20Chico"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-2chq",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TONES AND I",
+    "title": "Dance Monkey",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TONES%20AND%20I%20Dance%20Monkey",
+      "spotify": "https://open.spotify.com/search/TONES%20AND%20I%20Dance%20Monkey",
+      "appleMusic": "https://music.apple.com/search?term=TONES%20AND%20I%20Dance%20Monkey"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-za41",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BIGFLO & OLI",
+    "title": "Picasso",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BIGFLO%20%26%20OLI%20Picasso",
+      "spotify": "https://open.spotify.com/search/BIGFLO%20%26%20OLI%20Picasso",
+      "appleMusic": "https://music.apple.com/search?term=BIGFLO%20%26%20OLI%20Picasso"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-t9ri",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "LOREEN",
+    "title": "Tattoo",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LOREEN%20Tattoo",
+      "spotify": "https://open.spotify.com/search/LOREEN%20Tattoo",
+      "appleMusic": "https://music.apple.com/search?term=LOREEN%20Tattoo"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-7j22",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DASHA",
+    "title": "Austin",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DASHA%20Austin",
+      "spotify": "https://open.spotify.com/search/DASHA%20Austin",
+      "appleMusic": "https://music.apple.com/search?term=DASHA%20Austin"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-gqcp",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DAVID GUETTA",
+    "title": "KID CUDI - Memories (2021 Remix)",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DAVID%20GUETTA%20KID%20CUDI%20-%20Memories%20(2021%20Remix)",
+      "spotify": "https://open.spotify.com/search/DAVID%20GUETTA%20KID%20CUDI%20-%20Memories%20(2021%20Remix)",
+      "appleMusic": "https://music.apple.com/search?term=DAVID%20GUETTA%20KID%20CUDI%20-%20Memories%20(2021%20Remix)"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-sw0n",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAYLOR SWIFT",
+    "title": "The Fate Of Ophelia",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYLOR%20SWIFT%20The%20Fate%20Of%20Ophelia",
+      "spotify": "https://open.spotify.com/search/TAYLOR%20SWIFT%20The%20Fate%20Of%20Ophelia",
+      "appleMusic": "https://music.apple.com/search?term=TAYLOR%20SWIFT%20The%20Fate%20Of%20Ophelia"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-90nk",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MYLES SMITH",
+    "title": "Nice To Meet You",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MYLES%20SMITH%20Nice%20To%20Meet%20You",
+      "spotify": "https://open.spotify.com/search/MYLES%20SMITH%20Nice%20To%20Meet%20You",
+      "appleMusic": "https://music.apple.com/search?term=MYLES%20SMITH%20Nice%20To%20Meet%20You"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-d22q",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ZAHO",
+    "title": "Comme Caroline (ft Mc Solaar)",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ZAHO%20Comme%20Caroline%20(ft%20Mc%20Solaar)",
+      "spotify": "https://open.spotify.com/search/ZAHO%20Comme%20Caroline%20(ft%20Mc%20Solaar)",
+      "appleMusic": "https://music.apple.com/search?term=ZAHO%20Comme%20Caroline%20(ft%20Mc%20Solaar)"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-1xz4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KATY PERRY",
+    "title": "Teenage Dream",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KATY%20PERRY%20Teenage%20Dream",
+      "spotify": "https://open.spotify.com/search/KATY%20PERRY%20Teenage%20Dream",
+      "appleMusic": "https://music.apple.com/search?term=KATY%20PERRY%20Teenage%20Dream"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-qv99",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ANOTR",
+    "title": "Talk To You (ft 54 ULTRA)",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ANOTR%20Talk%20To%20You%20(ft%2054%20ULTRA)",
+      "spotify": "https://open.spotify.com/search/ANOTR%20Talk%20To%20You%20(ft%2054%20ULTRA)",
+      "appleMusic": "https://music.apple.com/search?term=ANOTR%20Talk%20To%20You%20(ft%2054%20ULTRA)"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-45e2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "FIFTH HARMONY",
+    "title": "Work From Home",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=FIFTH%20HARMONY%20Work%20From%20Home",
+      "spotify": "https://open.spotify.com/search/FIFTH%20HARMONY%20Work%20From%20Home",
+      "appleMusic": "https://music.apple.com/search?term=FIFTH%20HARMONY%20Work%20From%20Home"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-4w6y",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "DUA LIPA",
+    "title": "Training Season",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DUA%20LIPA%20Training%20Season",
+      "spotify": "https://open.spotify.com/search/DUA%20LIPA%20Training%20Season",
+      "appleMusic": "https://music.apple.com/search?term=DUA%20LIPA%20Training%20Season"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-vxvk",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BAD WOLVES",
+    "title": "Zombie",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BAD%20WOLVES%20Zombie",
+      "spotify": "https://open.spotify.com/search/BAD%20WOLVES%20Zombie",
+      "appleMusic": "https://music.apple.com/search?term=BAD%20WOLVES%20Zombie"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-rq84",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "M POKORA",
+    "title": "Quand meme",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=M%20POKORA%20Quand%20meme",
+      "spotify": "https://open.spotify.com/search/M%20POKORA%20Quand%20meme",
+      "appleMusic": "https://music.apple.com/search?term=M%20POKORA%20Quand%20meme"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-cnka",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BECKY G",
+    "title": "Arranca",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BECKY%20G%20Arranca",
+      "spotify": "https://open.spotify.com/search/BECKY%20G%20Arranca",
+      "appleMusic": "https://music.apple.com/search?term=BECKY%20G%20Arranca"
+    }
+  },
+  {
+    "id": "nrj-1788182086800-hw3r",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BLACK EYED PEAS",
+    "title": "Pump It",
+    "playedAt": "2026-08-31T13:14:46.800Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BLACK%20EYED%20PEAS%20Pump%20It",
+      "spotify": "https://open.spotify.com/search/BLACK%20EYED%20PEAS%20Pump%20It",
+      "appleMusic": "https://music.apple.com/search?term=BLACK%20EYED%20PEAS%20Pump%20It"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-vzzs",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "UPSILONE",
+    "title": "Everytime we touch",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=UPSILONE%20Everytime%20we%20touch",
+      "spotify": "https://open.spotify.com/search/UPSILONE%20Everytime%20we%20touch",
+      "appleMusic": "https://music.apple.com/search?term=UPSILONE%20Everytime%20we%20touch"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-zcqx",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "GRACIE ABRAMS",
+    "title": "That's So True",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=GRACIE%20ABRAMS%20That's%20So%20True",
+      "spotify": "https://open.spotify.com/search/GRACIE%20ABRAMS%20That's%20So%20True",
+      "appleMusic": "https://music.apple.com/search?term=GRACIE%20ABRAMS%20That's%20So%20True"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-mx4f",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "PINK",
+    "title": "TRUSTFALL",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=PINK%20TRUSTFALL",
+      "spotify": "https://open.spotify.com/search/PINK%20TRUSTFALL",
+      "appleMusic": "https://music.apple.com/search?term=PINK%20TRUSTFALL"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-av51",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ARIANA GRANDE",
+    "title": "hate that i made you love me",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ARIANA%20GRANDE%20hate%20that%20i%20made%20you%20love%20me",
+      "spotify": "https://open.spotify.com/search/ARIANA%20GRANDE%20hate%20that%20i%20made%20you%20love%20me",
+      "appleMusic": "https://music.apple.com/search?term=ARIANA%20GRANDE%20hate%20that%20i%20made%20you%20love%20me"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-0foh",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JENNIFER LOPEZ",
+    "title": "Save Me Tonight",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JENNIFER%20LOPEZ%20Save%20Me%20Tonight",
+      "spotify": "https://open.spotify.com/search/JENNIFER%20LOPEZ%20Save%20Me%20Tonight",
+      "appleMusic": "https://music.apple.com/search?term=JENNIFER%20LOPEZ%20Save%20Me%20Tonight"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-qgot",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SLIMANE",
+    "title": "PREMIERE FOIS",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SLIMANE%20PREMIERE%20FOIS",
+      "spotify": "https://open.spotify.com/search/SLIMANE%20PREMIERE%20FOIS",
+      "appleMusic": "https://music.apple.com/search?term=SLIMANE%20PREMIERE%20FOIS"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-h0bo",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TIMBALAND FT KERI HILSON",
+    "title": "The Way I Are",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TIMBALAND%20FT%20KERI%20HILSON%20The%20Way%20I%20Are",
+      "spotify": "https://open.spotify.com/search/TIMBALAND%20FT%20KERI%20HILSON%20The%20Way%20I%20Are",
+      "appleMusic": "https://music.apple.com/search?term=TIMBALAND%20FT%20KERI%20HILSON%20The%20Way%20I%20Are"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-5rgs",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SOFIA CARSON",
+    "title": "Come Back Home",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SOFIA%20CARSON%20Come%20Back%20Home",
+      "spotify": "https://open.spotify.com/search/SOFIA%20CARSON%20Come%20Back%20Home",
+      "appleMusic": "https://music.apple.com/search?term=SOFIA%20CARSON%20Come%20Back%20Home"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-aqy5",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "GIMS",
+    "title": "SOLEIL",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=GIMS%20SOLEIL",
+      "spotify": "https://open.spotify.com/search/GIMS%20SOLEIL",
+      "appleMusic": "https://music.apple.com/search?term=GIMS%20SOLEIL"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-kex4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BAD BUNNY",
+    "title": "NUEVAYOL",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BAD%20BUNNY%20NUEVAYOL",
+      "spotify": "https://open.spotify.com/search/BAD%20BUNNY%20NUEVAYOL",
+      "appleMusic": "https://music.apple.com/search?term=BAD%20BUNNY%20NUEVAYOL"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-ee5d",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BORIS WAY",
+    "title": "Running Up That Hill",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BORIS%20WAY%20Running%20Up%20That%20Hill",
+      "spotify": "https://open.spotify.com/search/BORIS%20WAY%20Running%20Up%20That%20Hill",
+      "appleMusic": "https://music.apple.com/search?term=BORIS%20WAY%20Running%20Up%20That%20Hill"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-0vpv",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAME IMPALA & JENNIE",
+    "title": "Dracula",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAME%20IMPALA%20%26%20JENNIE%20Dracula",
+      "spotify": "https://open.spotify.com/search/TAME%20IMPALA%20%26%20JENNIE%20Dracula",
+      "appleMusic": "https://music.apple.com/search?term=TAME%20IMPALA%20%26%20JENNIE%20Dracula"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-rdri",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KATY PERRY",
+    "title": "Hot n cold",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KATY%20PERRY%20Hot%20n%20cold",
+      "spotify": "https://open.spotify.com/search/KATY%20PERRY%20Hot%20n%20cold",
+      "appleMusic": "https://music.apple.com/search?term=KATY%20PERRY%20Hot%20n%20cold"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-rfm4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JUNGELI & EMMA",
+    "title": "Juste un peu",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JUNGELI%20%26%20EMMA%20Juste%20un%20peu",
+      "spotify": "https://open.spotify.com/search/JUNGELI%20%26%20EMMA%20Juste%20un%20peu",
+      "appleMusic": "https://music.apple.com/search?term=JUNGELI%20%26%20EMMA%20Juste%20un%20peu"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-h01n",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ALEX WARREN",
+    "title": "Fever Dream",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ALEX%20WARREN%20Fever%20Dream",
+      "spotify": "https://open.spotify.com/search/ALEX%20WARREN%20Fever%20Dream",
+      "appleMusic": "https://music.apple.com/search?term=ALEX%20WARREN%20Fever%20Dream"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-3fau",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SIA",
+    "title": "Gimme love",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SIA%20Gimme%20love",
+      "spotify": "https://open.spotify.com/search/SIA%20Gimme%20love",
+      "appleMusic": "https://music.apple.com/search?term=SIA%20Gimme%20love"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-ba6m",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "GIMS & MAUVAIS DJO",
+    "title": "VIVE LA MONNAIE",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=GIMS%20%26%20MAUVAIS%20DJO%20VIVE%20LA%20MONNAIE",
+      "spotify": "https://open.spotify.com/search/GIMS%20%26%20MAUVAIS%20DJO%20VIVE%20LA%20MONNAIE",
+      "appleMusic": "https://music.apple.com/search?term=GIMS%20%26%20MAUVAIS%20DJO%20VIVE%20LA%20MONNAIE"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-01ll",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "LUCENZO",
+    "title": "Limoncello",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LUCENZO%20Limoncello",
+      "spotify": "https://open.spotify.com/search/LUCENZO%20Limoncello",
+      "appleMusic": "https://music.apple.com/search?term=LUCENZO%20Limoncello"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-i3jk",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "JEREMY FREROT",
+    "title": "Frerot",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=JEREMY%20FREROT%20Frerot",
+      "spotify": "https://open.spotify.com/search/JEREMY%20FREROT%20Frerot",
+      "appleMusic": "https://music.apple.com/search?term=JEREMY%20FREROT%20Frerot"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-n1bp",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "IMAGINE DRAGONS",
+    "title": "Bad Liar",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=IMAGINE%20DRAGONS%20Bad%20Liar",
+      "spotify": "https://open.spotify.com/search/IMAGINE%20DRAGONS%20Bad%20Liar",
+      "appleMusic": "https://music.apple.com/search?term=IMAGINE%20DRAGONS%20Bad%20Liar"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-fmjl",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "ORELSAN",
+    "title": "BOSS",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ORELSAN%20BOSS",
+      "spotify": "https://open.spotify.com/search/ORELSAN%20BOSS",
+      "appleMusic": "https://music.apple.com/search?term=ORELSAN%20BOSS"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-c8jy",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BEBE REXHA",
+    "title": "New Religion",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BEBE%20REXHA%20New%20Religion",
+      "spotify": "https://open.spotify.com/search/BEBE%20REXHA%20New%20Religion",
+      "appleMusic": "https://music.apple.com/search?term=BEBE%20REXHA%20New%20Religion"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-vb2x",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "FLO RIDA",
+    "title": "Whistle",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=FLO%20RIDA%20Whistle",
+      "spotify": "https://open.spotify.com/search/FLO%20RIDA%20Whistle",
+      "appleMusic": "https://music.apple.com/search?term=FLO%20RIDA%20Whistle"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-to7y",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "CHARLOTTE CARDIN",
+    "title": "The Way We Touch (Ofenbach Remix)",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=CHARLOTTE%20CARDIN%20The%20Way%20We%20Touch%20(Ofenbach%20Remix)",
+      "spotify": "https://open.spotify.com/search/CHARLOTTE%20CARDIN%20The%20Way%20We%20Touch%20(Ofenbach%20Remix)",
+      "appleMusic": "https://music.apple.com/search?term=CHARLOTTE%20CARDIN%20The%20Way%20We%20Touch%20(Ofenbach%20Remix)"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-934w",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "UPSILONE",
+    "title": "Believe",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=UPSILONE%20Believe",
+      "spotify": "https://open.spotify.com/search/UPSILONE%20Believe",
+      "appleMusic": "https://music.apple.com/search?term=UPSILONE%20Believe"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-mavb",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KAROL G",
+    "title": "NICKY MINAJ - Tusa",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KAROL%20G%20NICKY%20MINAJ%20-%20Tusa",
+      "spotify": "https://open.spotify.com/search/KAROL%20G%20NICKY%20MINAJ%20-%20Tusa",
+      "appleMusic": "https://music.apple.com/search?term=KAROL%20G%20NICKY%20MINAJ%20-%20Tusa"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-ykoq",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BTS",
+    "title": "SWIM",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BTS%20SWIM",
+      "spotify": "https://open.spotify.com/search/BTS%20SWIM",
+      "appleMusic": "https://music.apple.com/search?term=BTS%20SWIM"
+    }
+  },
+  {
+    "id": "nrj-1788182086799-kbwi",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "HUGEL & SOLTO",
+    "title": "Jamaican (Bam Bam)",
+    "playedAt": "2026-08-31T13:14:46.799Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=HUGEL%20%26%20SOLTO%20Jamaican%20(Bam%20Bam)",
+      "spotify": "https://open.spotify.com/search/HUGEL%20%26%20SOLTO%20Jamaican%20(Bam%20Bam)",
+      "appleMusic": "https://music.apple.com/search?term=HUGEL%20%26%20SOLTO%20Jamaican%20(Bam%20Bam)"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-1yal",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TEMPER CITY",
+    "title": "Self Aware",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TEMPER%20CITY%20Self%20Aware",
+      "spotify": "https://open.spotify.com/search/TEMPER%20CITY%20Self%20Aware",
+      "appleMusic": "https://music.apple.com/search?term=TEMPER%20CITY%20Self%20Aware"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-c7w9",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "CRIS CAB",
+    "title": "English Man In New York",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=CRIS%20CAB%20English%20Man%20In%20New%20York",
+      "spotify": "https://open.spotify.com/search/CRIS%20CAB%20English%20Man%20In%20New%20York",
+      "appleMusic": "https://music.apple.com/search?term=CRIS%20CAB%20English%20Man%20In%20New%20York"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-nxc2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BEYONCE",
+    "title": "JAY Z - Drunk In Love",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BEYONCE%20JAY%20Z%20-%20Drunk%20In%20Love",
+      "spotify": "https://open.spotify.com/search/BEYONCE%20JAY%20Z%20-%20Drunk%20In%20Love",
+      "appleMusic": "https://music.apple.com/search?term=BEYONCE%20JAY%20Z%20-%20Drunk%20In%20Love"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-vcp3",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "SOUND OF LEGEND",
+    "title": "San Francisco",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SOUND%20OF%20LEGEND%20San%20Francisco",
+      "spotify": "https://open.spotify.com/search/SOUND%20OF%20LEGEND%20San%20Francisco",
+      "appleMusic": "https://music.apple.com/search?term=SOUND%20OF%20LEGEND%20San%20Francisco"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-joia",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MAUVAIS DJO",
+    "title": "Maladie",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MAUVAIS%20DJO%20Maladie",
+      "spotify": "https://open.spotify.com/search/MAUVAIS%20DJO%20Maladie",
+      "appleMusic": "https://music.apple.com/search?term=MAUVAIS%20DJO%20Maladie"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-kfvz",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "LADY GAGA",
+    "title": "Poker Face",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LADY%20GAGA%20Poker%20Face",
+      "spotify": "https://open.spotify.com/search/LADY%20GAGA%20Poker%20Face",
+      "appleMusic": "https://music.apple.com/search?term=LADY%20GAGA%20Poker%20Face"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-tdqo",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "BEBE REXHA ET DAVID GUETTA",
+    "title": "sad girls",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BEBE%20REXHA%20ET%20DAVID%20GUETTA%20sad%20girls",
+      "spotify": "https://open.spotify.com/search/BEBE%20REXHA%20ET%20DAVID%20GUETTA%20sad%20girls",
+      "appleMusic": "https://music.apple.com/search?term=BEBE%20REXHA%20ET%20DAVID%20GUETTA%20sad%20girls"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-gmu4",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TEDDY SWIMS",
+    "title": "Mr Know It All",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TEDDY%20SWIMS%20Mr%20Know%20It%20All",
+      "spotify": "https://open.spotify.com/search/TEDDY%20SWIMS%20Mr%20Know%20It%20All",
+      "appleMusic": "https://music.apple.com/search?term=TEDDY%20SWIMS%20Mr%20Know%20It%20All"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-s1vc",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "KYO",
+    "title": "Je cours (feat Nuit Incolore)",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=KYO%20Je%20cours%20(feat%20Nuit%20Incolore)",
+      "spotify": "https://open.spotify.com/search/KYO%20Je%20cours%20(feat%20Nuit%20Incolore)",
+      "appleMusic": "https://music.apple.com/search?term=KYO%20Je%20cours%20(feat%20Nuit%20Incolore)"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-rmt2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "FARRUKO",
+    "title": "YAPAQUE",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=FARRUKO%20YAPAQUE",
+      "spotify": "https://open.spotify.com/search/FARRUKO%20YAPAQUE",
+      "appleMusic": "https://music.apple.com/search?term=FARRUKO%20YAPAQUE"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-hqog",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "OLIVIA RODRIGO",
+    "title": "Drop Dead",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=OLIVIA%20RODRIGO%20Drop%20Dead",
+      "spotify": "https://open.spotify.com/search/OLIVIA%20RODRIGO%20Drop%20Dead",
+      "appleMusic": "https://music.apple.com/search?term=OLIVIA%20RODRIGO%20Drop%20Dead"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-vhyc",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "TAYC",
+    "title": "GIRLFRIEND",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYC%20GIRLFRIEND",
+      "spotify": "https://open.spotify.com/search/TAYC%20GIRLFRIEND",
+      "appleMusic": "https://music.apple.com/search?term=TAYC%20GIRLFRIEND"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-n33b",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "IMAGINE DRAGONS",
+    "title": "Waves",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=IMAGINE%20DRAGONS%20Waves",
+      "spotify": "https://open.spotify.com/search/IMAGINE%20DRAGONS%20Waves",
+      "appleMusic": "https://music.apple.com/search?term=IMAGINE%20DRAGONS%20Waves"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-c018",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MAUVAIS DJO",
+    "title": "Wagyu",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MAUVAIS%20DJO%20Wagyu",
+      "spotify": "https://open.spotify.com/search/MAUVAIS%20DJO%20Wagyu",
+      "appleMusic": "https://music.apple.com/search?term=MAUVAIS%20DJO%20Wagyu"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-7rj2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "MAROON 5",
+    "title": "Beautiful Mistakes",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MAROON%205%20Beautiful%20Mistakes",
+      "spotify": "https://open.spotify.com/search/MAROON%205%20Beautiful%20Mistakes",
+      "appleMusic": "https://music.apple.com/search?term=MAROON%205%20Beautiful%20Mistakes"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-6gjf",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Radio Craponne FM",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Radio%20Craponne%20FM",
+      "spotify": "https://open.spotify.com/search/%20Radio%20Craponne%20FM",
+      "appleMusic": "https://music.apple.com/search?term=%20Radio%20Craponne%20FM"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-yph8",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Radio Bonheur",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Radio%20Bonheur",
+      "spotify": "https://open.spotify.com/search/%20Radio%20Bonheur",
+      "appleMusic": "https://music.apple.com/search?term=%20Radio%20Bonheur"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-e79e",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "FIP Radio",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20FIP%20Radio",
+      "spotify": "https://open.spotify.com/search/%20FIP%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20FIP%20Radio"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-781b",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Nostalgie",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Nostalgie",
+      "spotify": "https://open.spotify.com/search/%20Nostalgie",
+      "appleMusic": "https://music.apple.com/search?term=%20Nostalgie"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-8p0e",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Cherie FM",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Cherie%20FM",
+      "spotify": "https://open.spotify.com/search/%20Cherie%20FM",
+      "appleMusic": "https://music.apple.com/search?term=%20Cherie%20FM"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-rctl",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Eurodance 90",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Eurodance%2090",
+      "spotify": "https://open.spotify.com/search/%20Eurodance%2090",
+      "appleMusic": "https://music.apple.com/search?term=%20Eurodance%2090"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-l3pa",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "OUI FM la Radio du Rock",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20OUI%20FM%20la%20Radio%20du%20Rock",
+      "spotify": "https://open.spotify.com/search/%20OUI%20FM%20la%20Radio%20du%20Rock",
+      "appleMusic": "https://music.apple.com/search?term=%20OUI%20FM%20la%20Radio%20du%20Rock"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-8nc7",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Kiss FM",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Kiss%20FM",
+      "spotify": "https://open.spotify.com/search/%20Kiss%20FM",
+      "appleMusic": "https://music.apple.com/search?term=%20Kiss%20FM"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-92hk",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Radio Saint Nabor",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Radio%20Saint%20Nabor",
+      "spotify": "https://open.spotify.com/search/%20Radio%20Saint%20Nabor",
+      "appleMusic": "https://music.apple.com/search?term=%20Radio%20Saint%20Nabor"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-p4zm",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Teenage Kicks Radio",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Teenage%20Kicks%20Radio",
+      "spotify": "https://open.spotify.com/search/%20Teenage%20Kicks%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20Teenage%20Kicks%20Radio"
+    }
+  },
+  {
+    "id": "nrj-1788182086798-s7n2",
+    "stationId": "nrj",
+    "stationName": "NRJ",
+    "artist": "NRJ",
+    "title": "Joeff Radio",
+    "playedAt": "2026-08-31T13:14:46.798Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=%20Joeff%20Radio",
+      "spotify": "https://open.spotify.com/search/%20Joeff%20Radio",
+      "appleMusic": "https://music.apple.com/search?term=%20Joeff%20Radio"
+    }
+  },
+  {
+    "id": "europe-2-1788181665000-8aii",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "CHARLOTTE CARDIN",
+    "title": "The Way We Touch",
+    "playedAt": "2026-08-31T13:07:45.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/4_68833757.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=CHARLOTTE%20CARDIN%20The%20Way%20We%20Touch",
+      "spotify": "https://open.spotify.com/search/CHARLOTTE%20CARDIN%20The%20Way%20We%20Touch",
+      "appleMusic": "https://music.apple.com/search?term=CHARLOTTE%20CARDIN%20The%20Way%20We%20Touch"
+    }
+  },
+  {
+    "id": "radio-fg-1788181639710",
+    "stationId": "radio-fg",
+    "stationName": "Radio FG",
+    "artist": "MOLOKO",
+    "title": "Sing It Back",
+    "playedAt": "2026-08-31T13:07:19.710Z",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1f/b1/22/1fb122d3-a5e9-c3d9-7fb9-2852d06d94c8/0886443963085.jpg/600x600bb.jpg",
+    "album": "Things to Make and Do",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MOLOKO%20Sing%20It%20Back",
+      "spotify": "https://open.spotify.com/search/MOLOKO%20Sing%20It%20Back",
+      "appleMusic": "https://music.apple.com/search?term=MOLOKO%20Sing%20It%20Back"
+    }
+  },
+  {
+    "id": "europe-2-1788181445000-o6iv",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ENUR x NATASJA",
+    "title": "Calabria",
+    "playedAt": "2026-08-31T13:04:05.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_58085666.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ENUR%20x%20NATASJA%20Calabria",
+      "spotify": "https://open.spotify.com/search/ENUR%20x%20NATASJA%20Calabria",
+      "appleMusic": "https://music.apple.com/search?term=ENUR%20x%20NATASJA%20Calabria"
+    }
+  },
+  {
+    "id": "radio-fg-1788181398081",
+    "stationId": "radio-fg",
+    "stationName": "Radio FG",
+    "artist": "MIZMO",
+    "title": "Hello (The Sun Is Up Where Are You)",
+    "playedAt": "2026-08-31T13:03:18.081Z",
+    "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/37/c2/3537c2ed-0ae6-74e5-61d8-1080f97d7f44/cover.jpg/600x600bb.jpg",
+    "album": "Hello (The Sun Is Up Where Are You) - Single",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MIZMO%20Hello%20(The%20Sun%20Is%20Up%20Where%20Are%20You)",
+      "spotify": "https://open.spotify.com/search/MIZMO%20Hello%20(The%20Sun%20Is%20Up%20Where%20Are%20You)",
+      "appleMusic": "https://music.apple.com/search?term=MIZMO%20Hello%20(The%20Sun%20Is%20Up%20Where%20Are%20You)"
+    }
+  },
+  {
+    "id": "europe-2-1788181239000-3lsn",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TOVE LO x STROMAE",
+    "title": "Des Fleurs",
+    "playedAt": "2026-08-31T13:00:39.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_75278778.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TOVE%20LO%20x%20STROMAE%20Des%20Fleurs",
+      "spotify": "https://open.spotify.com/search/TOVE%20LO%20x%20STROMAE%20Des%20Fleurs",
+      "appleMusic": "https://music.apple.com/search?term=TOVE%20LO%20x%20STROMAE%20Des%20Fleurs"
+    }
+  },
+  {
+    "id": "europe-2-1788181055000-kf0y",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "CHARLIE PUTH  MEGHAN TRAINOR",
+    "title": "Marvin Gaye",
+    "playedAt": "2026-08-31T12:57:35.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_45918.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=CHARLIE%20PUTH%20%20MEGHAN%20TRAINOR%20Marvin%20Gaye",
+      "spotify": "https://open.spotify.com/search/CHARLIE%20PUTH%20%20MEGHAN%20TRAINOR%20Marvin%20Gaye",
+      "appleMusic": "https://music.apple.com/search?term=CHARLIE%20PUTH%20%20MEGHAN%20TRAINOR%20Marvin%20Gaye"
+    }
+  },
+  {
+    "id": "france-inter-1788180948170",
+    "stationId": "france-inter",
+    "stationName": "France Inter",
+    "artist": "TRICKY",
+    "title": "Evolution revolution love",
+    "playedAt": "2026-08-31T12:55:48.170Z",
+    "artworkUrl": "https://www.radiofrance.fr/s3/rf-cruiser-embed-production/2026/08/2f15f89b-d550-4cd5-bd3d-6c87f4ed1f5b/400x400_sc_rf_omm_0004113137_dnc.0152534514.jpg",
+    "album": "Nova 25 ans (2001)",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TRICKY%20Evolution%20revolution%20love",
+      "spotify": "https://open.spotify.com/search/TRICKY%20Evolution%20revolution%20love",
+      "appleMusic": "https://music.apple.com/search?term=TRICKY%20Evolution%20revolution%20love"
+    }
+  },
+  {
+    "id": "skyrock-1788180947818",
+    "stationId": "skyrock",
+    "stationName": "Skyrock",
+    "artist": "RnBoi",
+    "title": "ELLE VOULAIT §7650161",
+    "playedAt": "2026-08-31T12:55:47.818Z",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=RnBoi%20ELLE%20VOULAIT%20%C2%A77650161",
+      "spotify": "https://open.spotify.com/search/RnBoi%20ELLE%20VOULAIT%20%C2%A77650161",
+      "appleMusic": "https://music.apple.com/search?term=RnBoi%20ELLE%20VOULAIT%20%C2%A77650161"
+    }
+  },
+  {
+    "id": "europe-2-1788180853000-82pt",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TAYLOR SWIFT",
+    "title": "Cruel Summer",
+    "playedAt": "2026-08-31T12:54:13.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_28537366.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAYLOR%20SWIFT%20Cruel%20Summer",
+      "spotify": "https://open.spotify.com/search/TAYLOR%20SWIFT%20Cruel%20Summer",
+      "appleMusic": "https://music.apple.com/search?term=TAYLOR%20SWIFT%20Cruel%20Summer"
+    }
+  },
+  {
+    "id": "europe-2-1788180624000-ckal",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "OFENBACH x STARSAILOR",
+    "title": "Four To The Floor",
+    "playedAt": "2026-08-31T12:50:24.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_75278812.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=OFENBACH%20x%20STARSAILOR%20Four%20To%20The%20Floor",
+      "spotify": "https://open.spotify.com/search/OFENBACH%20x%20STARSAILOR%20Four%20To%20The%20Floor",
+      "appleMusic": "https://music.apple.com/search?term=OFENBACH%20x%20STARSAILOR%20Four%20To%20The%20Floor"
+    }
+  },
+  {
+    "id": "europe-2-1788180415000-b33s",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "THE KILLERS",
+    "title": "Mr Brightside",
+    "playedAt": "2026-08-31T12:46:55.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10097580.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=THE%20KILLERS%20Mr%20Brightside",
+      "spotify": "https://open.spotify.com/search/THE%20KILLERS%20Mr%20Brightside",
+      "appleMusic": "https://music.apple.com/search?term=THE%20KILLERS%20Mr%20Brightside"
+    }
+  },
+  {
+    "id": "europe-2-1788180219000-18y7",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ADELE CASTILLON",
+    "title": "ÉTé Avec Toi",
+    "playedAt": "2026-08-31T12:43:39.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_77123534.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ADELE%20CASTILLON%20%C3%89T%C3%A9%20Avec%20Toi",
+      "spotify": "https://open.spotify.com/search/ADELE%20CASTILLON%20%C3%89T%C3%A9%20Avec%20Toi",
+      "appleMusic": "https://music.apple.com/search?term=ADELE%20CASTILLON%20%C3%89T%C3%A9%20Avec%20Toi"
+    }
+  },
+  {
+    "id": "europe-2-1788180012000-jchd",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TONES AND I",
+    "title": "Dance Monkey",
+    "playedAt": "2026-08-31T12:40:12.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10857337.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TONES%20AND%20I%20Dance%20Monkey",
+      "spotify": "https://open.spotify.com/search/TONES%20AND%20I%20Dance%20Monkey",
+      "appleMusic": "https://music.apple.com/search?term=TONES%20AND%20I%20Dance%20Monkey"
+    }
+  },
+  {
+    "id": "europe-2-1788179864000-f5ro",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ALEX WARREN",
+    "title": "Fever Dream",
+    "playedAt": "2026-08-31T12:37:44.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_68624824.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ALEX%20WARREN%20Fever%20Dream",
+      "spotify": "https://open.spotify.com/search/ALEX%20WARREN%20Fever%20Dream",
+      "appleMusic": "https://music.apple.com/search?term=ALEX%20WARREN%20Fever%20Dream"
+    }
+  },
+  {
+    "id": "europe-2-1788179419000-7816",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "BLACK EYED PEAS",
+    "title": "Let's Get It Started",
+    "playedAt": "2026-08-31T12:30:19.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_31577186.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BLACK%20EYED%20PEAS%20Let's%20Get%20It%20Started",
+      "spotify": "https://open.spotify.com/search/BLACK%20EYED%20PEAS%20Let's%20Get%20It%20Started",
+      "appleMusic": "https://music.apple.com/search?term=BLACK%20EYED%20PEAS%20Let's%20Get%20It%20Started"
+    }
+  },
+  {
+    "id": "europe-2-1788179255000-f5m5",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "HARRY STYLES",
+    "title": "As It Was",
+    "playedAt": "2026-08-31T12:27:35.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_15755383.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=HARRY%20STYLES%20As%20It%20Was",
+      "spotify": "https://open.spotify.com/search/HARRY%20STYLES%20As%20It%20Was",
+      "appleMusic": "https://music.apple.com/search?term=HARRY%20STYLES%20As%20It%20Was"
+    }
+  },
+  {
+    "id": "europe-2-1788179142000-k43y",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "DOMINIC FIKE",
+    "title": "Babydoll (Power Intro)",
+    "playedAt": "2026-08-31T12:25:42.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_80494889.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DOMINIC%20FIKE%20Babydoll%20(Power%20Intro)",
+      "spotify": "https://open.spotify.com/search/DOMINIC%20FIKE%20Babydoll%20(Power%20Intro)",
+      "appleMusic": "https://music.apple.com/search?term=DOMINIC%20FIKE%20Babydoll%20(Power%20Intro)"
+    }
+  },
+  {
+    "id": "europe-2-1788178970000-5wu6",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "ANGELE & JUSTICE",
+    "title": "What You Want",
+    "playedAt": "2026-08-31T12:22:50.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_67874875.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=ANGELE%20%26%20JUSTICE%20What%20You%20Want",
+      "spotify": "https://open.spotify.com/search/ANGELE%20%26%20JUSTICE%20What%20You%20Want",
+      "appleMusic": "https://music.apple.com/search?term=ANGELE%20%26%20JUSTICE%20What%20You%20Want"
+    }
+  },
+  {
+    "id": "europe-2-1788178768000-xfap",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "SIA",
+    "title": "Unstoppable",
+    "playedAt": "2026-08-31T12:19:28.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10886393.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=SIA%20Unstoppable",
+      "spotify": "https://open.spotify.com/search/SIA%20Unstoppable",
+      "appleMusic": "https://music.apple.com/search?term=SIA%20Unstoppable"
+    }
+  },
+  {
+    "id": "europe-2-1788178611000-qwh0",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "RAYE",
+    "title": "Where Is My Husband",
+    "playedAt": "2026-08-31T12:16:51.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_71857503.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=RAYE%20Where%20Is%20My%20Husband",
+      "spotify": "https://open.spotify.com/search/RAYE%20Where%20Is%20My%20Husband",
+      "appleMusic": "https://music.apple.com/search?term=RAYE%20Where%20Is%20My%20Husband"
+    }
+  },
+  {
+    "id": "europe-2-1788178471000-l5ze",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "FREYA SKYE",
+    "title": "silent treatment",
+    "playedAt": "2026-08-31T12:14:31.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/4_72390120.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=FREYA%20SKYE%20silent%20treatment",
+      "spotify": "https://open.spotify.com/search/FREYA%20SKYE%20silent%20treatment",
+      "appleMusic": "https://music.apple.com/search?term=FREYA%20SKYE%20silent%20treatment"
+    }
+  },
+  {
+    "id": "europe-2-1788177946000-e983",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "RED HOT CHILI PEPPERS",
+    "title": "Californication",
+    "playedAt": "2026-08-31T12:05:46.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_10099988.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=RED%20HOT%20CHILI%20PEPPERS%20Californication",
+      "spotify": "https://open.spotify.com/search/RED%20HOT%20CHILI%20PEPPERS%20Californication",
+      "appleMusic": "https://music.apple.com/search?term=RED%20HOT%20CHILI%20PEPPERS%20Californication"
+    }
+  },
+  {
+    "id": "europe-2-1788177793000-rye8",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "DAVID GUETTA X BONNIE TYLER",
+    "title": "Together",
+    "playedAt": "2026-08-31T12:03:13.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/4_52610071.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=DAVID%20GUETTA%20X%20BONNIE%20TYLER%20Together",
+      "spotify": "https://open.spotify.com/search/DAVID%20GUETTA%20X%20BONNIE%20TYLER%20Together",
+      "appleMusic": "https://music.apple.com/search?term=DAVID%20GUETTA%20X%20BONNIE%20TYLER%20Together"
+    }
+  },
+  {
+    "id": "europe-2-1788177615000-vpj4",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "MANON LISA",
+    "title": "Le Petit Pecheur (Radio Edit) (Intro Speak) Ok",
+    "playedAt": "2026-08-31T12:00:15.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_74511623.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MANON%20LISA%20Le%20Petit%20Pecheur%20(Radio%20Edit)%20(Intro%20Speak)%20Ok",
+      "spotify": "https://open.spotify.com/search/MANON%20LISA%20Le%20Petit%20Pecheur%20(Radio%20Edit)%20(Intro%20Speak)%20Ok",
+      "appleMusic": "https://music.apple.com/search?term=MANON%20LISA%20Le%20Petit%20Pecheur%20(Radio%20Edit)%20(Intro%20Speak)%20Ok"
+    }
+  },
+  {
+    "id": "europe-2-1788177382000-jae8",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "LADY GAGA",
+    "title": "Alejandro",
+    "playedAt": "2026-08-31T11:56:22.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_42850.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LADY%20GAGA%20Alejandro",
+      "spotify": "https://open.spotify.com/search/LADY%20GAGA%20Alejandro",
+      "appleMusic": "https://music.apple.com/search?term=LADY%20GAGA%20Alejandro"
+    }
+  },
+  {
+    "id": "europe-2-1788177163000-92hi",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "TAME IMPALA",
+    "title": "Loser",
+    "playedAt": "2026-08-31T11:52:43.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/4_80968727.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=TAME%20IMPALA%20Loser",
+      "spotify": "https://open.spotify.com/search/TAME%20IMPALA%20Loser",
+      "appleMusic": "https://music.apple.com/search?term=TAME%20IMPALA%20Loser"
+    }
+  },
+  {
+    "id": "europe-2-1788176964000-mv0u",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "PINK",
+    "title": "Raise Your Glass",
+    "playedAt": "2026-08-31T11:49:24.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_42774.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=PINK%20Raise%20Your%20Glass",
+      "spotify": "https://open.spotify.com/search/PINK%20Raise%20Your%20Glass",
+      "appleMusic": "https://music.apple.com/search?term=PINK%20Raise%20Your%20Glass"
+    }
+  },
+  {
+    "id": "europe-2-1788176785000-s3al",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "LEONY",
+    "title": "By Your Side (In My Mind)",
+    "playedAt": "2026-08-31T11:46:25.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_49707883.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=LEONY%20By%20Your%20Side%20(In%20My%20Mind)",
+      "spotify": "https://open.spotify.com/search/LEONY%20By%20Your%20Side%20(In%20My%20Mind)",
+      "appleMusic": "https://music.apple.com/search?term=LEONY%20By%20Your%20Side%20(In%20My%20Mind)"
+    }
+  },
+  {
+    "id": "europe-2-1788176586000-e6wq",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "MARTIN GARRIX & ED SHEERAN",
+    "title": "Repeat It (Power Intro)",
+    "playedAt": "2026-08-31T11:43:06.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_80494830.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=MARTIN%20GARRIX%20%26%20ED%20SHEERAN%20Repeat%20It%20(Power%20Intro)",
+      "spotify": "https://open.spotify.com/search/MARTIN%20GARRIX%20%26%20ED%20SHEERAN%20Repeat%20It%20(Power%20Intro)",
+      "appleMusic": "https://music.apple.com/search?term=MARTIN%20GARRIX%20%26%20ED%20SHEERAN%20Repeat%20It%20(Power%20Intro)"
+    }
+  },
+  {
+    "id": "europe-2-1788176360000-hatr",
+    "stationId": "europe-2",
+    "stationName": "Europe 2",
+    "artist": "BRUNO MARS",
+    "title": "Grenade (Intro Speak)",
+    "playedAt": "2026-08-31T11:39:20.000Z",
+    "artworkUrl": "https://cdn.europe2.lanmedia.fr/covers/2/2_46053559.jpg",
+    "externalLinks": {
+      "youtube": "https://www.youtube.com/results?search_query=BRUNO%20MARS%20Grenade%20(Intro%20Speak)",
+      "spotify": "https://open.spotify.com/search/BRUNO%20MARS%20Grenade%20(Intro%20Speak)",
+      "appleMusic": "https://music.apple.com/search?term=BRUNO%20MARS%20Grenade%20(Intro%20Speak)"
+    }
+  }
+]

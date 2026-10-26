@@ -1,0 +1,59 @@
+[
+  {
+    "id": "europe-2",
+    "name": "Europe 2",
+    "streamUrl": "https://europe2.lmn.fm/europe2.mp3",
+    "fallbackStreamUrl": "https://stream.europe2.fr/europe2-128.mp3",
+    "logoUrl": "/logos/europe2.png",
+    "genre": "Pop, Rock, Hits",
+    "tagline": "Le Meilleur Son Pop-Rock",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3",
+    "isFavorite": true,
+    "websiteUrl": "https://www.europe2.fr",
+    "createdAt": "2026-08-31T12:00:00.000Z"
+  },
+  {
+    "id": "nrj",
+    "name": "NRJ",
+    "streamUrl": "https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3",
+    "logoUrl": "/logos/nrj.svg",
+    "genre": "Hits, Pop, Electro",
+    "tagline": "Hit Music Only",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3",
+    "isFavorite": false,
+    "websiteUrl": "https://www.nrj.fr",
+    "createdAt": "2026-08-31T12:00:00.000Z"
+  },
+  {
+    "id": "fun-radio",
+    "name": "Fun Radio",
+    "streamUrl": "https://icecast.funradio.fr/fun-1-44-128?listen=webCwsAudioStream",
+    "logoUrl": "/logos/funradio.svg",
+    "genre": "Dance, Electro, Latino",
+    "tagline": "Enjoy the music",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3",
+    "isFavorite": false,
+    "websiteUrl": "https://www.funradio.fr",
+    "createdAt": "2026-08-31T12:00:00.000Z"
+  },
+  {
+    "id": "radio-fg",
+    "name": "Radio FG",
+    "streamUrl": "https://radiofg.impek.com/fg",
+    "logoUrl": "/logos/radiofg.png",
+    "genre": "Electro, House, Dance",
+    "tagline": "Feel Good & DJ Radio",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3",
+    "isFavorite": false,
+    "websiteUrl": "https://www.radiofg.com",
+    "createdAt": "2026-08-31T12:00:00.000Z"
+  }
+]

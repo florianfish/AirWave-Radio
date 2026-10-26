@@ -1,0 +1,7 @@
+{
+  "name": "Radio en Ligne",
+  "description": "Lecteur de radios en ligne épuré avec affichage des logos, suivi du titre en direct, historique des morceaux et gestion des stations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

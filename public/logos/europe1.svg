@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="e1-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0055A5"/>
+      <stop offset="100%" stop-color="#003366"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="500" rx="90" fill="url(#e1-bg)"/>
+  <text x="250" y="210" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-style="italic" font-size="80" fill="#FFFFFF" text-anchor="middle">EUROPE</text>
+  <text x="250" y="390" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="900" font-style="italic" font-size="200" fill="#FFFFFF" text-anchor="middle">1</text>
+  <rect x="110" y="425" width="280" height="16" rx="8" fill="#00AEEF"/>
+</svg>

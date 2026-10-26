@@ -1,0 +1,34 @@
+# ==============================================================================
+# Home Assistant Add-on: Radios Françaises
+# Inspiré de l'architecture florianfish/TeslaLocatorPG
+# ==============================================================================
+name: "Radios Françaises"
+description: "Lecteur de radios françaises en direct (Europe 2, NRJ, Fun Radio, Radio FG) pour Home Assistant avec Ingress et métadonnées live"
+version: "1.0.0"
+slug: "radios_francaises"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: services
+boot: auto
+ingress: true
+ingress_port: 3000
+panel_icon: "mdi:radio"
+panel_title: "Radios FR"
+panel_admin: false
+homeassistant_api: true
+ports:
+  3000/tcp: 3000
+ports_description:
+  3000/tcp: "Port HTTP direct (optionnel, l'accès principal se fait via Ingress)"
+webui: "http://[HOST]:[PORT:3000]"
+options:
+  log_level: "info"
+  default_station: "europe-2"
+schema:
+  log_level: "list(trace|debug|info|notice|warning|error|fatal)?"
+  default_station: "list(europe-2|nrj|fun-radio|radio-fg)?"

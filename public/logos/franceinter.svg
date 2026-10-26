@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="fi-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2001A"/>
+      <stop offset="100%" stop-color="#B30014"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Badge -->
+  <rect width="500" height="500" rx="90" fill="url(#fi-bg)"/>
+  
+  <!-- Central White Circle -->
+  <circle cx="250" cy="200" r="115" fill="#FFFFFF"/>
+  <circle cx="250" cy="200" r="85" fill="#E2001A"/>
+  <circle cx="250" cy="200" r="45" fill="#FFFFFF"/>
+  
+  <!-- Text FRANCE INTER -->
+  <text x="250" y="375" 
+        font-family="'Montserrat', 'Arial Black', sans-serif" 
+        font-weight="900" 
+        font-size="44" 
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        letter-spacing="4">FRANCE</text>
+  <text x="250" y="425" 
+        font-family="'Montserrat', 'Arial Black', sans-serif" 
+        font-weight="900" 
+        font-size="44" 
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        letter-spacing="4">INTER</text>
+</svg>

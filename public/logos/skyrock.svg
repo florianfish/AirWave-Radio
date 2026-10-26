@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="sky-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111113"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Badge -->
+  <rect width="500" height="500" rx="90" fill="url(#sky-bg)" stroke="#FFCC00" stroke-width="8"/>
+  
+  <!-- Red angled backdrop banner -->
+  <polygon points="50,260 450,210 450,330 50,380" fill="#E5001A"/>
+  
+  <!-- SKYROCK Text -->
+  <text x="250" y="320" 
+        font-family="'Arial Black', 'Impact', sans-serif" 
+        font-weight="900" 
+        font-style="italic" 
+        font-size="64" 
+        fill="#FFFFFF" 
+        text-anchor="middle" 
+        letter-spacing="2">SKYROCK</text>
+        
+  <!-- Tagline -->
+  <text x="250" y="430" 
+        font-family="'Montserrat', sans-serif" 
+        font-weight="900" 
+        font-size="24" 
+        fill="#FFCC00" 
+        text-anchor="middle" 
+        letter-spacing="4">PREMIER SUR LE RAP</text>
+</svg>

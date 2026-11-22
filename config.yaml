@@ -4,7 +4,7 @@
 # ==============================================================================
 name: "Radios Françaises"
 description: "Lecteur de radios françaises en direct (Europe 2, NRJ, Fun Radio, Radio FG) pour Home Assistant avec Ingress et métadonnées live"
-version: "1.0.0"
+version: "1.1.0"
 slug: "radios_francaises"
 init: false
 arch:

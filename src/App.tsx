@@ -49,30 +49,12 @@ export default function App() {
     loadRadios(true);
   }, []);
 
-  // 2. Fetch Now Playing metadata for active radio
-  const fetchNowPlaying = useCallback(async (stationId: string) => {
-    if (!stationId) return;
-    try {
-      const data = await api.getNowPlaying(stationId);
-      setNowPlaying(data);
-    } catch (err) {
-      // Fallback
-    }
-  }, []);
-
-  // Sync now playing when currentRadio changes
+  // 2. Live Now Playing metadata for the active radio (pushed by the server via SSE)
   useEffect(() => {
     if (!currentRadio) return;
     setNowPlaying(null);
-    fetchNowPlaying(currentRadio.id);
-
-    // Poll metadata periodically every 15 seconds
-    const interval = setInterval(() => {
-      fetchNowPlaying(currentRadio.id);
-    }, 15000);
-
-    return () => clearInterval(interval);
-  }, [currentRadio?.id, fetchNowPlaying]);
+    return api.subscribeNowPlaying(currentRadio.id, setNowPlaying);
+  }, [currentRadio?.id]);
 
   // Handle Play/Pause toggle
   const handlePlayToggle = () => {

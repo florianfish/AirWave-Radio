@@ -39,6 +39,18 @@ interface TrackHistoryItem {
   };
 }
 
+interface NowPlayingInfo {
+  stationId: string;
+  stationName: string;
+  artist: string;
+  title: string;
+  rawTitle?: string;
+  artworkUrl?: string;
+  album?: string;
+  updatedAt: string;
+  isLive: boolean;
+}
+
 const PORT = Number(process.env.PORT) || 3000;
 // In Home Assistant Add-on environment, /data is mounted by Supervisor for persistent storage
 const DATA_DIR = fs.existsSync('/data') && fs.statSync('/data').isDirectory()
@@ -202,8 +214,18 @@ function loadHistory(): TrackHistoryItem[] {
 function saveHistory(history: TrackHistoryItem[]): void {
   ensureDataDir();
   try {
-    // Keep max 200 items in history
-    const trimmed = history.slice(0, 200);
+    // Newest first, max 200 items per station: a station importing its whole
+    // playlist (NRJ) must not push the other stations out of the history.
+    const MAX_PER_STATION = 200;
+    const perStation = new Map<string, number>();
+    const trimmed = history
+      .slice()
+      .sort((a, b) => new Date(b.playedAt).getTime() - new Date(a.playedAt).getTime())
+      .filter((h) => {
+        const count = (perStation.get(h.stationId) || 0) + 1;
+        perStation.set(h.stationId, count);
+        return count <= MAX_PER_STATION;
+      });
     fs.writeFileSync(HISTORY_FILE, JSON.stringify(trimmed, null, 2), 'utf-8');
   } catch (err) {
     console.error('Error saving history file:', err);
@@ -295,6 +317,27 @@ async function fetchEurope2OrRfmMetadata(radioNum: number = 2): Promise<{
 }
 
 // Specialized Provider for NRJ Live Metadata
+/**
+ * Converts a wall-clock time shown on a French playlist page ("17:53", or "En direct")
+ * into an ISO timestamp. The time is interpreted in Europe/Paris and assumed to be within
+ * the last 24 hours, which sidesteps timezone offset math and handles midnight rollover.
+ */
+function parisClockToIso(clock: string, now = new Date()): string {
+  const m = clock.match(/^(\d{1,2}):(\d{2})$/);
+  if (!m) return now.toISOString();
+  const parisNow = new Intl.DateTimeFormat('en-GB', {
+    timeZone: 'Europe/Paris',
+    hour: '2-digit',
+    minute: '2-digit',
+    hourCycle: 'h23',
+  }).format(now);
+  const [nowH, nowM] = parisNow.split(':').map(Number);
+  const minutesAgo = (nowH * 60 + nowM - (Number(m[1]) * 60 + Number(m[2])) + 1440) % 1440;
+  const played = new Date(now.getTime() - minutesAgo * 60000);
+  played.setSeconds(0, 0);
+  return played.toISOString();
+}
+
 async function fetchNrjMetadata(): Promise<{
   artist?: string;
   title?: string;
@@ -315,9 +358,11 @@ async function fetchNrjMetadata(): Promise<{
     const songs: Array<{ artist: string; title: string; time?: string }> = [];
 
     for (const r of rows) {
-      const timeM = r.match(/class="time[^"]*"[^>]*>([^<]+)</i);
-      const trackM = r.match(/class="track_name_wrapper"[^>]*>([\s\S]*?)<\/td>/i) || r.match(/<a[^>]*class="ajax"[^>]*>([\s\S]*?)<\/a>/i);
-      if (trackM) {
+      // Only playlist rows: the page also lists "similar radios" in <tr><td><a class="ajax">
+      // rows, which must not be mistaken for tracks. Tracks may or may not be wrapped in a link.
+      const trackM = r.match(/<td[^>]*class="track_history_item"[^>]*>([\s\S]*?)<\/td>/i);
+      const timeM = r.match(/class="time--schedule"[^>]*>([^<]+)</i);
+      if (trackM && timeM) {
         let raw = trackM[1]
           .replace(/<[^>]+>/g, ' ')
           .replace(/&amp;/g, '&')
@@ -343,7 +388,7 @@ async function fetchNrjMetadata(): Promise<{
           songs.push({
             artist,
             title,
-            time: timeM ? timeM[1].trim() : undefined,
+            time: parisClockToIso(timeM[1].trim()),
           });
         }
       }
@@ -666,17 +711,8 @@ async function startServer() {
     res.json(DEFAULT_RADIOS);
   });
 
-  // 7. Get Now Playing metadata for a radio
-  app.get('/api/radios/:id/now-playing', async (req, res) => {
-    const { id } = req.params;
-    const radios = loadRadios();
-    const station = radios.find((r) => r.id === id);
-
-    if (!station) {
-      res.status(404).json({ error: 'Radio non trouvée' });
-      return;
-    }
-
+  // 7. Now Playing metadata resolution (shared by the REST route and the SSE stream)
+  async function resolveNowPlaying(station: RadioStation): Promise<NowPlayingInfo> {
     const stationLower = (station.name + ' ' + station.id + ' ' + (station.streamUrl || '')).toLowerCase();
     let artist = '';
     let title = '';
@@ -753,21 +789,26 @@ async function startServer() {
 
           for (const item of nrjData.history.slice().reverse()) {
             if (!item.title || item.title.toLowerCase() === 'nrj') continue;
+            const playedAt = item.time || new Date().toISOString();
+            const playedMs = new Date(playedAt).getTime();
+            // Same track within 30 min = same play (the live entry is timestamped "now"
+            // before it shows up again with its real start time). Later replays are kept.
             const exists = history.some(
               (h) =>
                 h.stationId === station.id &&
                 h.title.toLowerCase() === item.title.toLowerCase() &&
-                h.artist.toLowerCase() === (item.artist || '').toLowerCase()
+                h.artist.toLowerCase() === (item.artist || station.name).toLowerCase() &&
+                Math.abs(new Date(h.playedAt).getTime() - playedMs) < 30 * 60000
             );
 
             if (!exists) {
               history.unshift({
-                id: `${station.id}-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`,
+                id: `${station.id}-${playedMs}-${Math.random().toString(36).slice(2, 6)}`,
                 stationId: station.id,
                 stationName: station.name,
                 artist: item.artist || station.name,
                 title: item.title,
-                playedAt: new Date().toISOString(),
+                playedAt,
                 artworkUrl: undefined,
                 externalLinks: {
                   youtube: `https://www.youtube.com/results?search_query=${encodeURIComponent(`${item.artist} ${item.title}`)}`,
@@ -876,7 +917,7 @@ async function startServer() {
       }
     }
 
-    res.json({
+    return {
       stationId: station.id,
       stationName: station.name,
       artist: artist || station.name,
@@ -886,6 +927,116 @@ async function startServer() {
       album: album || undefined,
       updatedAt: new Date().toISOString(),
       isLive: true,
+    };
+  }
+
+  // Now Playing hub: one poller per station shared by all SSE clients.
+  // The upstream metadata is fetched once per interval, whatever the number of
+  // listeners, and pushed only when the track actually changes.
+  const NOW_PLAYING_INTERVAL_MS = 15000;
+  const SSE_HEARTBEAT_MS = 25000;
+
+  interface NowPlayingChannel {
+    clients: Set<express.Response>;
+    last: NowPlayingInfo | null;
+    timer: NodeJS.Timeout | null;
+    inFlight: Promise<NowPlayingInfo | null> | null;
+  }
+
+  const nowPlayingChannels = new Map<string, NowPlayingChannel>();
+
+  const getChannel = (stationId: string): NowPlayingChannel => {
+    let channel = nowPlayingChannels.get(stationId);
+    if (!channel) {
+      channel = { clients: new Set(), last: null, timer: null, inFlight: null };
+      nowPlayingChannels.set(stationId, channel);
+    }
+    return channel;
+  };
+
+  const trackSignature = (np: NowPlayingInfo) => `${np.artist}|${np.title}|${np.artworkUrl ?? ''}|${np.album ?? ''}`;
+
+  const sendSse = (res: express.Response, data: unknown) => {
+    res.write(`data: ${JSON.stringify(data)}\n\n`);
+  };
+
+  const refreshNowPlaying = (stationId: string): Promise<NowPlayingInfo | null> => {
+    const channel = getChannel(stationId);
+    if (channel.inFlight) return channel.inFlight;
+
+    channel.inFlight = (async () => {
+      const station = loadRadios().find((r) => r.id === stationId);
+      if (!station) return null;
+      const np = await resolveNowPlaying(station);
+      const changed = !channel.last || trackSignature(channel.last) !== trackSignature(np);
+      channel.last = np;
+      if (changed) {
+        for (const client of channel.clients) sendSse(client, np);
+      }
+      return np;
+    })()
+      .catch((err) => {
+        console.error(`[now-playing] refresh failed for ${stationId}:`, err);
+        return null;
+      })
+      .finally(() => {
+        channel.inFlight = null;
+      });
+
+    return channel.inFlight;
+  };
+
+  // 7a. Get Now Playing metadata for a radio (one-shot, used by HA REST sensors)
+  app.get('/api/radios/:id/now-playing', async (req, res) => {
+    const { id } = req.params;
+    if (!loadRadios().some((r) => r.id === id)) {
+      res.status(404).json({ error: 'Radio non trouvée' });
+      return;
+    }
+    const np = await refreshNowPlaying(id);
+    if (!np) {
+      res.status(502).json({ error: 'Impossible de récupérer le titre en cours' });
+      return;
+    }
+    res.json(np);
+  });
+
+  // 7b. Live Now Playing stream (Server-Sent Events)
+  app.get('/api/radios/:id/now-playing/stream', (req, res) => {
+    const { id } = req.params;
+    if (!loadRadios().some((r) => r.id === id)) {
+      res.status(404).json({ error: 'Radio non trouvée' });
+      return;
+    }
+
+    res.writeHead(200, {
+      'Content-Type': 'text/event-stream',
+      'Cache-Control': 'no-cache, no-transform',
+      Connection: 'keep-alive',
+      'X-Accel-Buffering': 'no',
+    });
+    res.write('retry: 5000\n\n');
+
+    const channel = getChannel(id);
+    const wasIdle = channel.timer === null;
+    channel.clients.add(res);
+
+    // Send what we know right away, then refresh if nobody was polling this station.
+    if (channel.last) sendSse(res, channel.last);
+    if (wasIdle) {
+      refreshNowPlaying(id);
+      channel.timer = setInterval(() => refreshNowPlaying(id), NOW_PLAYING_INTERVAL_MS);
+    }
+
+    const heartbeat = setInterval(() => res.write(': ping\n\n'), SSE_HEARTBEAT_MS);
+
+    req.on('close', () => {
+      clearInterval(heartbeat);
+      channel.clients.delete(res);
+      if (channel.clients.size === 0 && channel.timer) {
+        clearInterval(channel.timer);
+        channel.timer = null;
+      }
     });
   });
 

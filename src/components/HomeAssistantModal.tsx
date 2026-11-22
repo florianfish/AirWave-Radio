@@ -92,11 +92,11 @@ sensor:
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm animate-in fade-in duration-200">
       <div 
-        className="relative w-full max-w-3xl bg-[#141418] border border-slate-800 rounded-3xl shadow-2xl overflow-hidden flex flex-col max-h-[90vh]"
+        className="relative w-full max-w-3xl bg-ink-850 border border-line rounded-3xl shadow-2xl overflow-hidden flex flex-col max-h-[90vh]"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Modal Header */}
-        <div className="flex items-center justify-between px-6 py-5 border-b border-slate-800 bg-[#16161b]">
+        <div className="flex items-center justify-between px-6 py-5 border-b border-line bg-ink-800">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-blue-600/20 border border-blue-500/30 flex items-center justify-center text-blue-400">
               {/* Home Assistant icon shape */}
@@ -106,7 +106,7 @@ sensor:
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <h3 className="text-lg font-bold text-white font-['Space_Grotesk',sans-serif]">
+                <h3 className="text-lg font-bold text-white font-display">
                   Intégration Home Assistant
                 </h3>
                 <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400">
@@ -128,7 +128,7 @@ sensor:
         </div>
 
         {/* Tabs Bar */}
-        <div className="flex items-center gap-2 px-6 pt-4 border-b border-slate-800/80 bg-[#141418] overflow-x-auto">
+        <div className="flex items-center gap-2 px-6 pt-4 border-b border-line bg-ink-850 overflow-x-auto">
           <button
             onClick={() => setActiveTab('speakers')}
             className={`flex items-center gap-2 px-3.5 py-2.5 rounded-t-xl text-xs font-semibold border-b-2 transition-all cursor-pointer whitespace-nowrap ${
@@ -195,7 +195,7 @@ sensor:
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {radios.map((r) => (
-                  <div key={r.id} className="p-3.5 rounded-2xl bg-[#1a1a1f] border border-slate-800 flex items-center justify-between gap-3">
+                  <div key={r.id} className="p-3.5 rounded-2xl bg-white/[0.03] border border-line flex items-center justify-between gap-3">
                     <div className="min-w-0">
                       <div className="font-bold text-white text-sm truncate">{r.name}</div>
                       <div className="text-[11px] text-slate-500 font-mono truncate">{r.streamUrl}</div>
@@ -231,7 +231,7 @@ sensor:
                     {copiedKey === 'auto' ? 'Copié !' : 'Copier le code YAML'}
                   </button>
                 </div>
-                <pre className="p-4 rounded-2xl bg-[#0e0e11] border border-slate-800/90 text-xs font-mono text-slate-300 overflow-x-auto selection:bg-blue-600">
+                <pre className="p-4 rounded-2xl bg-ink-950 border border-line text-xs font-mono text-slate-300 overflow-x-auto selection:bg-accent">
                   {automationYaml}
                 </pre>
               </div>
@@ -261,7 +261,7 @@ sensor:
                 </button>
               </div>
 
-              <pre className="p-4 rounded-2xl bg-[#0e0e11] border border-slate-800/90 text-xs font-mono text-slate-300 overflow-x-auto selection:bg-blue-600">
+              <pre className="p-4 rounded-2xl bg-ink-950 border border-line text-xs font-mono text-slate-300 overflow-x-auto selection:bg-accent">
                 {lovelaceYaml}
               </pre>
             </div>
@@ -290,7 +290,7 @@ sensor:
                 </button>
               </div>
 
-              <pre className="p-4 rounded-2xl bg-[#0e0e11] border border-slate-800/90 text-xs font-mono text-slate-300 overflow-x-auto selection:bg-blue-600">
+              <pre className="p-4 rounded-2xl bg-ink-950 border border-line text-xs font-mono text-slate-300 overflow-x-auto selection:bg-accent">
                 {sensorYaml}
               </pre>
             </div>
@@ -320,7 +320,7 @@ sensor:
         </div>
 
         {/* Modal Footer */}
-        <div className="px-6 py-4 border-t border-slate-800 bg-[#16161b] flex items-center justify-between">
+        <div className="px-6 py-4 border-t border-line bg-ink-800 flex items-center justify-between">
           <span className="text-xs text-slate-500">
             Compatible avec Home Assistant OS, Supervised et Container
           </span>

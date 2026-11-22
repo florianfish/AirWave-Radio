@@ -14,6 +14,7 @@ import {
 } from 'lucide-react';
 import { RadioStation, NowPlayingInfo } from '../types';
 import { StationLogo } from './StationLogo';
+import { Equalizer } from './Equalizer';
 
 interface AudioPlayerProps {
   currentRadio: RadioStation | null;
@@ -191,7 +192,7 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
     : 'RD';
 
   return (
-    <footer id="sticky-audio-player" className="fixed bottom-0 left-0 right-0 z-40 bg-[#1a1a1c] border-t border-slate-800 px-4 sm:px-8 py-3.5 shadow-2xl transition-all">
+    <footer id="sticky-audio-player" className="fixed bottom-0 left-0 right-0 z-40 px-3 sm:px-6 pb-3 sm:pb-5 pointer-events-none">
       <audio
         ref={audioRef}
         preload="none"
@@ -216,44 +217,69 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
         }}
       />
 
-      <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 md:gap-8">
-        
-        {/* Left: Station Identity */}
-        <div className="flex items-center gap-3 w-full md:w-1/4 min-w-0">
-          <div className="w-11 h-11 rounded-xl bg-slate-800 border border-slate-700/60 p-1 flex items-center justify-center flex-shrink-0 overflow-hidden">
-            <StationLogo
-              name={currentRadio ? currentRadio.name : 'Radio'}
-              logoUrl={currentRadio?.logoUrl}
-              size="sm"
-              className="w-full h-full"
-            />
-          </div>
-
-          <div className="min-w-0 flex-1">
-            <div className="text-sm font-medium text-white truncate">
-              {currentRadio ? currentRadio.name : 'Sélectionnez une station'}
-            </div>
-            <div className="text-xs text-slate-500 truncate">
-              {nowPlaying?.title ? (
-                <span className="text-slate-400">{nowPlaying.title}</span>
-              ) : (
-                <span>Direct</span>
-              )}
-            </div>
-          </div>
+      <div className="pointer-events-auto relative max-w-5xl mx-auto rounded-[28px] bg-ink-850/80 backdrop-blur-2xl border border-white/10 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.9)] overflow-hidden">
+        {/* Live signal line */}
+        <div className="absolute top-0 inset-x-0 h-px bg-white/5">
+          <div className={`h-full bg-gradient-to-r from-transparent via-accent to-transparent transition-opacity duration-500 ${isPlaying ? 'opacity-100 animate-pulse' : 'opacity-0'}`} />
         </div>
 
-        {/* Center: Live stream indicator & Controls */}
-        <div className="flex flex-col items-center gap-2 w-full md:w-2/4">
-          <div className="flex items-center gap-4">
+        <div className="flex items-center gap-3 sm:gap-6 px-3 sm:px-4 py-3">
+
+          {/* Left: Station Identity */}
+          <div className="flex items-center gap-3 flex-1 min-w-0">
+            <div className="relative w-12 h-12 rounded-2xl bg-black/40 border border-white/10 p-1.5 flex items-center justify-center flex-shrink-0 overflow-hidden">
+              <StationLogo
+                name={currentRadio ? currentRadio.name : 'Radio'}
+                logoUrl={currentRadio?.logoUrl}
+                size="sm"
+                className="w-full h-full"
+              />
+            </div>
+
+            <div className="min-w-0 flex-1">
+              <div className="flex items-center gap-2">
+                <span className="text-sm font-semibold text-white truncate">
+                  {currentRadio ? currentRadio.name : 'Sélectionnez une station'}
+                </span>
+                {streamError ? (
+                  <span className="hidden sm:inline-flex items-center gap-1 text-[10px] text-amber-400 font-medium truncate" title={streamError}>
+                    <AlertCircle className="w-3 h-3 flex-shrink-0" />
+                    {streamError}
+                  </span>
+                ) : (
+                  <span className={`text-[9px] font-mono font-bold uppercase tracking-[0.2em] px-1.5 py-0.5 rounded ${
+                    isPlaying ? 'bg-[#ff3355] text-white' : 'bg-white/5 text-slate-500'
+                  }`}>
+                    {isPlaying ? 'Live' : 'Prêt'}
+                  </span>
+                )}
+              </div>
+              <div className="text-xs text-slate-400 truncate mt-0.5">
+                {nowPlaying?.title ? (
+                  <>
+                    {nowPlaying.title}
+                    {nowPlaying.artist && nowPlaying.artist !== nowPlaying.title && (
+                      <span className="text-slate-600"> · {nowPlaying.artist}</span>
+                    )}
+                  </>
+                ) : (
+                  <span className="text-slate-500">Direct</span>
+                )}
+              </div>
+            </div>
+          </div>
+
+          {/* Center: Controls */}
+          <div className="flex items-center gap-1 sm:gap-3">
             {onPrevRadio && (
               <button
                 id="prev-radio-btn"
                 onClick={onPrevRadio}
                 title="Précédente"
-                className="text-slate-400 hover:text-white transition-colors cursor-pointer p-1"
+                aria-label="Station précédente"
+                className="hidden sm:flex w-9 h-9 items-center justify-center rounded-full text-slate-400 hover:text-white hover:bg-white/5 transition-colors cursor-pointer"
               >
-                <SkipBack className="w-5 h-5" />
+                <SkipBack className="w-4 h-4 fill-current" />
               </button>
             )}
 
@@ -262,10 +288,11 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
               onClick={onPlayToggle}
               disabled={!currentRadio}
               title={isPlaying ? 'Pause (Espace)' : 'Lecture (Espace)'}
-              className="w-12 h-12 bg-white rounded-full flex items-center justify-center text-black hover:scale-105 active:scale-95 transition-transform shadow-lg cursor-pointer disabled:opacity-40"
+              aria-label={isPlaying ? 'Pause' : 'Lecture'}
+              className="w-12 h-12 bg-white rounded-full flex items-center justify-center text-ink-950 hover:scale-105 active:scale-95 transition-transform shadow-[0_6px_24px_-6px_var(--accent)] cursor-pointer disabled:opacity-40"
             >
               {isLoading ? (
-                <div className="w-4 h-4 border-2 border-black/30 border-t-black rounded-full animate-spin"></div>
+                <div className="w-4 h-4 border-2 border-black/20 border-t-black rounded-full animate-spin"></div>
               ) : isPlaying ? (
                 <Pause className="w-5 h-5 fill-current" />
               ) : (
@@ -278,61 +305,60 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
                 id="next-radio-btn"
                 onClick={onNextRadio}
                 title="Suivante"
-                className="text-slate-400 hover:text-white transition-colors cursor-pointer p-1"
+                aria-label="Station suivante"
+                className="w-9 h-9 flex items-center justify-center rounded-full text-slate-400 hover:text-white hover:bg-white/5 transition-colors cursor-pointer"
               >
-                <SkipForward className="w-5 h-5" />
+                <SkipForward className="w-4 h-4 fill-current" />
               </button>
             )}
           </div>
 
-          {/* Live Progress Bar */}
-          <div className="w-full flex items-center gap-3">
-            <span className="text-[10px] text-slate-500 font-mono">00:00</span>
-            <div className="flex-1 h-1 bg-slate-800 rounded-full relative overflow-hidden">
-              <div className={`absolute top-0 left-0 h-full ${isPlaying ? 'w-3/4 bg-blue-500' : 'w-0'} transition-all duration-300`}></div>
-            </div>
-            <span className="text-[10px] text-blue-500 font-mono font-bold uppercase tracking-wider">
-              {isPlaying ? 'Live' : 'Prêt'}
-            </span>
-          </div>
-        </div>
-
-        {/* Right: Volume & Bitrate */}
-        <div className="flex items-center justify-end gap-3 w-full md:w-1/4">
-          <button
-            id="mute-toggle-btn"
-            onClick={handleMuteToggle}
-            title={isMuted ? 'Rétablir le son (M)' : 'Couper le son (M)'}
-            className="text-slate-500 hover:text-white transition-colors cursor-pointer p-1"
-          >
-            {effectiveVolume === 0 ? (
-              <VolumeX className="w-5 h-5 text-rose-400" />
-            ) : effectiveVolume < 0.5 ? (
-              <Volume1 className="w-5 h-5" />
-            ) : (
-              <Volume2 className="w-5 h-5" />
-            )}
-          </button>
-
-          <div className="w-24 sm:w-28 relative flex items-center">
-            <input
-              id="volume-slider-input"
-              type="range"
-              min="0"
-              max="1"
-              step="0.01"
-              value={effectiveVolume}
-              onChange={handleVolumeChange}
-              aria-label="Volume"
-              className="w-full h-1 bg-slate-800 rounded-full appearance-none cursor-pointer accent-blue-500 focus:outline-none"
+          {/* Right: Spectrum & Volume */}
+          <div className="hidden md:flex items-center justify-end gap-4 flex-1">
+            <Equalizer
+              playing={isPlaying && !isLoading}
+              bars={14}
+              className="h-6 gap-[3px] opacity-80"
+              barClassName={`w-[3px] ${isPlaying ? 'bg-accent' : 'bg-slate-700'}`}
             />
+
+            <div className="flex items-center gap-2">
+              <button
+                id="mute-toggle-btn"
+                onClick={handleMuteToggle}
+                title={isMuted ? 'Rétablir le son (M)' : 'Couper le son (M)'}
+                aria-label={isMuted ? 'Rétablir le son' : 'Couper le son'}
+                className="text-slate-400 hover:text-white transition-colors cursor-pointer p-1"
+              >
+                {effectiveVolume === 0 ? (
+                  <VolumeX className="w-5 h-5 text-rose-400" />
+                ) : effectiveVolume < 0.5 ? (
+                  <Volume1 className="w-5 h-5" />
+                ) : (
+                  <Volume2 className="w-5 h-5" />
+                )}
+              </button>
+
+              <input
+                id="volume-slider-input"
+                type="range"
+                min="0"
+                max="1"
+                step="0.01"
+                value={effectiveVolume}
+                onChange={handleVolumeChange}
+                aria-label="Volume"
+                style={{ '--fill': `${effectiveVolume * 100}%` } as React.CSSProperties}
+                className="range-accent w-24 lg:w-28 focus:outline-none"
+              />
+
+              <span className="text-[10px] text-slate-500 font-mono w-8 text-right tabular-nums">
+                {Math.round(effectiveVolume * 100)}%
+              </span>
+            </div>
           </div>
 
-          <span className="text-[11px] text-slate-500 font-mono w-7 text-right">
-            {Math.round(effectiveVolume * 100)}%
-          </span>
         </div>
-
       </div>
     </footer>
   );

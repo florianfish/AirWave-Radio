@@ -61,6 +61,35 @@ export const api = {
     return res.json();
   },
 
+  /**
+   * Subscribes to live "now playing" updates for a station via Server-Sent Events.
+   * The server pushes a new event only when the track changes; EventSource handles
+   * reconnection on its own. Falls back to polling when EventSource is unavailable.
+   * Returns an unsubscribe function.
+   */
+  subscribeNowPlaying(stationId: string, onUpdate: (info: NowPlayingInfo) => void): () => void {
+    const accept = (info: NowPlayingInfo) => {
+      if (info && info.stationId === stationId) onUpdate(info);
+    };
+
+    if (typeof EventSource === 'undefined') {
+      const poll = () => api.getNowPlaying(stationId).then(accept).catch(() => {});
+      poll();
+      const interval = setInterval(poll, 15000);
+      return () => clearInterval(interval);
+    }
+
+    const source = new EventSource(getRelativePath(`/api/radios/${stationId}/now-playing/stream`));
+    source.onmessage = (event) => {
+      try {
+        accept(JSON.parse(event.data));
+      } catch {
+        // Ignore malformed events
+      }
+    };
+    return () => source.close();
+  },
+
   async getStationHistory(stationId: string): Promise<TrackHistoryItem[]> {
     const res = await fetch(getRelativePath(`/api/radios/${stationId}/history`));
     if (!res.ok) throw new Error('Impossible de récupérer l\'historique');

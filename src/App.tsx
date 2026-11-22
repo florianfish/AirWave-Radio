@@ -6,7 +6,7 @@ import { NowPlayingHero } from './components/NowPlayingHero';
 import { AudioPlayer } from './components/AudioPlayer';
 import { RadioList } from './components/RadioList';
 import { HomeAssistantModal } from './components/HomeAssistantModal';
-import { Layers } from 'lucide-react';
+import { getStationAccent } from './theme';
 
 export default function App() {
   const [radios, setRadios] = useState<RadioStation[]>([]);
@@ -55,6 +55,11 @@ export default function App() {
     setNowPlaying(null);
     return api.subscribeNowPlaying(currentRadio.id, setNowPlaying);
   }, [currentRadio?.id]);
+
+  // Tint the whole UI with the selected station's signature colour
+  useEffect(() => {
+    document.documentElement.style.setProperty('--accent', getStationAccent(currentRadio?.name));
+  }, [currentRadio?.name]);
 
   // Handle Play/Pause toggle
   const handlePlayToggle = () => {
@@ -109,8 +114,9 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0a0a0c] text-slate-100 flex flex-col pb-28 selection:bg-red-600 selection:text-white">
-      
+    <div className="relative min-h-screen bg-ink-950 text-slate-100 flex flex-col pb-40 md:pb-32 selection:bg-accent selection:text-white">
+      <div className="app-backdrop" aria-hidden="true" />
+
       {/* Main Navigation Header */}
       <Header
         totalRadios={radios.length}
@@ -122,10 +128,10 @@ export default function App() {
       />
 
       {/* Main Content Area */}
-      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8 space-y-8">
-        
+      <main className="relative z-10 flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-10 space-y-12">
+
         {/* Hero Section: Currently Selected Radio & Live Playing Metadata */}
-        {currentRadio && (
+        {currentRadio ? (
           <section id="hero-player-container">
             <NowPlayingHero
               radio={currentRadio}
@@ -136,19 +142,23 @@ export default function App() {
               isFavorite={currentRadio.isFavorite}
             />
           </section>
-        )}
+        ) : isLoadingRadios ? (
+          <div className="h-[420px] rounded-[36px] bg-ink-850 border border-line animate-pulse" />
+        ) : null}
 
         {/* Stations Catalogue */}
-        <section className="space-y-4">
-          <div className="flex items-center justify-between pb-2 border-b border-slate-800/80">
-            <div className="flex items-center gap-2">
-              <Layers className="w-5 h-5 text-red-500" />
-              <h3 className="text-xl font-black text-white tracking-tight font-['Space_Grotesk',sans-serif]">
-                Les Stations
+        <section className="space-y-5">
+          <div className="flex items-end justify-between gap-4">
+            <div>
+              <p className="text-[11px] font-mono uppercase tracking-[0.25em] text-accent mb-1.5">
+                Sélecteur
+              </p>
+              <h3 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight font-display">
+                Les stations
               </h3>
             </div>
-            <span className="text-xs text-slate-400 font-medium">
-              Europe 2 • NRJ • Fun Radio • Radio FG
+            <span className="hidden sm:inline text-xs text-slate-500 font-mono">
+              {String(radios.length).padStart(2, '0')} en direct · Espace = lecture/pause
             </span>
           </div>
 

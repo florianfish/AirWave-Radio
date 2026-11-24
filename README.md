@@ -33,7 +33,7 @@ Inspiré de l'architecture des dépôts d'add-ons Home Assistant (comme `florian
 2. Cliquez sur les **3 points** en haut à droite > **Dépôts**.
 3. Ajoutez l'URL de votre dépôt :
    ```text
-   https://github.com/florianfish/TeslaLocatorPG
+   https://github.com/florianfish/AirWave-Radio
    ```
 4. Cliquez sur **Ajouter**.
 
